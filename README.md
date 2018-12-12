@@ -1,6 +1,6 @@
 # State-of-the-art quality enhancement methods for depth images (Updating)
 
-**A list of depth quality enhancement resources and a benchmark for depth quality enhancement approaches.**
+**A list of depth quality enhancement approaches.**
 **This list is maintained by: Lijun Zhao (PhD candidate Beijing Jiaotong University). If your paper about this topic is not listed among them，please contact us（15112084@bjtu.edu.cn）.**
 
 ## Depth Image Restoration
