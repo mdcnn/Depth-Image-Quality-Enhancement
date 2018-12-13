@@ -2,28 +2,87 @@
 
 **A list of depth quality enhancement approaches.**
 **This list is maintained by: Lijun Zhao (PhD candidate Beijing Jiaotong University). If your paper about this topic is not listed among them，please contact us（15112084@bjtu.edu.cn）.**
+   
+## Depth Image Super-Resolution
 
-## Depth Image Restoration
+#### CNN-based Methods
 
-   * WMF[[PDF]](http://ieeexplore.ieee.org/document/5963715/): Depth video enhancement based on weighted mode filtering (IEEE Trans. Image Process. 2012), Dongbo Min, Jiangbo Lu, Minh N. Do.
+   * CFCNS[[PDF]](https://ieeexplore.ieee.org/abstract/document/8485321): Deep Color Guided Coarse-to-Fine Convolutional Network Cascade for Depth Image Super-Resolution (IEEE Trans. on Image Processing 2019), Yang Wen, Bin Sheng, Ping Li, Weiyao Lin, David Dagan Feng.
+   
+   * DSDSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8443445): Deeply Supervised Depth Map Super-Resolution as Novel View Synthesis (IEEE Trans. on Circuits and Systems for Video Technology 2019), Xibin Song, Yuchao Dai, Xueying Qin.
+   
+   * SDISR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8462043): Single Depth Image Super-Resolution Using Convolutional Neural Networks (ICASSP 2018), Baoliang Chen, Cheolkon Jung.
+
+   * GDN[[PDF]](https://ieeexplore.ieee.org/abstract/document/7952398): Guided deep network for depth map super-resolution: How much can color help? (ICASSP 2017), Wentian Zhou, Xin Li, Daryl Reynolds.
+   
+   * FEAG[[PDF]](https://ieeexplore.ieee.org/abstract/document/8305055): Depth super-resolution via fully edge-augmented guidance (IEEE Visual Communications and Image Processing 2017), Jingyu Yang, Hao Lan, Xiaolin Song, Kun Li.
+   
+   * DSR[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-54190-7_22): Deep Depth Super-Resolution: Learning Depth Super-Resolution Using Deep Convolutional Neural Network (ACCV 2016), Xibin Song, Yuchao Dai, Xueying Qin.
+      
+   * DMSG[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_22): Depth Map Super-Resolution by Deep Multi-Scale Guidance (ECCV 2016), Tak-Wai Hui, Chen Change Loy,Xiaoou Tang.
+   
+   * ATGV-Net[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_17): ATGV-Net: Accurate Depth Super-Resolution (ECCV 2016), Gernot Riegler, Matthias Rüther, Horst Bischof.
+
+   * DPN[[PDF]](https://arxiv.org/abs/1607.08569): A Deep Primal-Dual Network for Guided Depth Super-Resolution (BMVC 2016), Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof.
+   
+#### Traditional Methods
+   * MSF[[PDF]](https://ieeexplore.ieee.org/abstract/document/8491336): Depth Super-Resolution via Joint Color-Guided Internal and External Regularizations (IEEE Trans. on Image Processing 2019), Xianming Liu, Deming Zhai, Rong Chen, Xiangyang Ji, Debin Zhao, Wen Gao.
+   
+   * MSF[[PDF]](https://ieeexplore.ieee.org/abstract/document/7795253): Joint-Feature Guided Depth Map Super-Resolution With Face Priors (IEEE Trans. on Cybernetics 2018), Shuai Yang, Jiaying Liu, Yuming Fang, Zongming Guo.
+
+   * EIE[[PDF]](http://ieeexplore.ieee.org/document/8340850/): Explicit Edge Inconsistency Evaluation Model for Color-guided Depth Map Enhancement (IEEE Trans. on Circuits and Systems for Video Technology 2018), Yifan Zuo, Qiang Wu, Jian Zhang, Ping An.
+
+   * MSF[[PDF]](http://ieeexplore.ieee.org/document/8340850/): Minimum spanning forest with embedded edge inconsistency measurement model for guided depth map enhancement (IEEE Trans. Image Process. 2018), Yifan Zuo, Qiang Wu, Jian Zhang, Ping An.
+   
+   * MRDLR[[PDF]](https://ieeexplore.ieee.org/document/8019331): Single depth image super-resolution with multiple residual dictionary learning and refinement (ICME 2017), Lijun Zhao, Huihui Bai, Jie Liang, Anhong Wang, Yao Zhao.
+   
+   * VBW[[PDF]](https://ieeexplore.ieee.org/document/7457345): Variable Bandwidth Weighting for Texture Copy Artifact Suppression in Guided Depth Upsampling (IEEE Trans. on Circuits and Systems for Video Technology 2017), Wei Liu, Xiaogang Chen, Jie Yang, Qiang Wu.
+   
+   * IEDU[[PDF]](https://www.sciencedirect.com/science/article/pii/S1047320316302383): Intensity-guided edge-preserving depth upsampling through weighted L0 gradient minimization (Journal of Visual Communication and Image Representation 2017), Cheolkon Jung, Shengtao Yu, Joongkyu Kim.
+            
+   * VSQ-SR[[PDF]](https://ieeexplore.ieee.org/abstract/document/7828010): Depth Map Super-Resolution Considering View Synthesis Quality (IEEE Trans. on Image Processing 2017), Jianjun Lei, Lele Li, Huanjing Yue, Feng Wu, Nam Ling, Chunping Hou.
+   
+   * FGI[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175): Fast Guided Global Interpolation for Depth and Motion (ECCV2016), Yu Li, Dongbo Min, Minh N. Do,Jiangbo Lu.
+      
+   * EGSR[[PDF]](https://ieeexplore.ieee.org/document/7332765):Edge guided single depth image super resolution (IEEE Trans. Image Process. 2016), Jun Xie, Rogerio Schmidt Feris, Ming-Ting Sun.
+   
+   * JSRD[[PDF]](https://ieeexplore.ieee.org/abstract/document/7160743):Joint Super Resolution and Denoising From a Single Depth Image (IEEE Tran. on Multimedia 2015), Jun Xie, Rogerio Schmidt Feris, Shiaw-Shian Yu, Ming-Ting Sun.
+      
+   * SVAM[[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231214011138): Depth map super-resolution using stereo-vision-assisted model (Neurocomputing 2015), Yuxiang Yang, Mingyu Gao, Jing Zhang, Zhengjun Zha, Zengfu Wang.
+      
+   * HDMU[[PDF]](http://ieeexplore.ieee.org/document/6914600/): High-Quality Depth Map Upsampling and Completion for RGB-D Cameras (IEEE Trans. Image Process. 2014), Jaesik Park, Hyeongwoo Kim, Yu-Wing Tai, Michael S. Brown, In So Kweon.
+
+   * PS[[PDF]](http://link.springer.com/chapter/10.1007/978-3-642-33712-3_6): Patch based synthesis for single depth image super-resolution (ECCV 2012), Oisin Mac, AodhaNeill D. F., CampbellArun Nair,, Gabriel J. Brostow.
+   
+   * SDSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/4270236): Spatial-Depth Super Resolution for Range Images (CVPR 2007), Qingxiong Yang, Ruigang Yang, James Davis, David Nister.
+      
+## Depth Image Restoration/Enhancement
+
+   * PDUE[[PDF]](http://ieeexplore.ieee.org/document/8418219/): Precise depth map upsampling and enhancement based on edge-preserving fusion filters (IET Computer Vision 2018), Ting-An Chang, Jar-Ferr Yang.
+   
+   * RDE[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8281287): Robust depth enhancement based on texture and depth consistency (IET Computer Vision 2018), Ting-An Chang, Wei-Chen Liao, Jar-Ferr Yang.
+   
+   * PDUE[[PDF]](https://ieeexplore.ieee.org/document/7574299): Precise depth map upsampling and enhancement based on edge-preserving fusion filters (IET Computer Vision 2018), Ting-An Chang, Jar-Ferr Yang.
 
    * RGDR[[PDF]](https://ieeexplore.ieee.org/document/7574299): Robust Color Guided Depth Map Restoration (IEEE Trans. Image Process. 2017), Wei Liu, Xiaogang Chen, Jie Yang, Qiang Wu.
    
-## Depth Image Super-Resolution
+   * EDE[[PDF]](https://www.mdpi.com/1424-8220/17/7/1544/htm): Efficient Depth Enhancement Using a Combination of Color and Depth Information (Sensors 2017), Kyungja Lee, Yuseok Ban, Sangyoun Lee.
    
-   * MRDLR[[PDF]](https://ieeexplore.ieee.org/document/8019331): Single depth image super-resolution with multiple residual dictionary learning and refinement (ICME 2017), Lijun Zhao, Huihui Bai, Jie Liang, Anhong Wang, Yao Zhao.
+   * PMDIE[[PDF]](https://ieeexplore.ieee.org/abstract/document/6963273): Probabilistic Multiview Depth Image Enhancement Using Variational Inference (IEEE Journal of Selected Topics in Signal Processing 2015), Pravin Kumar Rana, Jalil Taghia, Zhanyu Ma, Markus Flierl.
       
-   * FGI[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175): Fast Guided Global Interpolation for Depth and Motion (ECCV2016), Yu Li, Dongbo Min, Minh N. Do,Jiangbo Lu.
-      
-   * EGSR[[PDF]](https://ieeexplore.ieee.org/document/7332765):Edge guided single depth image super resolution (IEEE Trans. Image Process. 2016), Jun Xie, Rogerio Schmidt Feris, Ming-Ting Sun
+   * LTPA[[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Matsuo_Depth_Image_Enhancement_2015_CVPR_paper.pdf): Depth Image Enhancement Using Local Tangent Plane Approximations (CVPR 2015), Kiyoshi Matsuo, Yoshimitsu Aoki.
    
-   * HDMU[[PDF]](http://ieeexplore.ieee.org/document/6914600/): High-Quality Depth Map Upsampling and Completion for RGB-D Cameras (IEEE Trans. Image Process. 2014), Jaesik Park, Hyeongwoo Kim, Yu-Wing Tai, Michael S. Brown, In So Kweon
-
-   * PS[[PDF]](http://link.springer.com/chapter/10.1007/978-3-642-33712-3_6): Patch based synthesis for single depth image super-resolution (ECCV2012), Oisin Mac, AodhaNeill D. F., CampbellArun Nair,, Gabriel J. Brostow.
+   * LRMC[[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Lu_Depth_Enhancement_via_2014_CVPR_paper.pdf): Depth Enhancement via Low-rank Matrix Completion (CVPR 2014), Si Lu, Xiaofeng Ren, Feng Liu.
+      
+   * RMDE[[PDF]](https://ieeexplore.ieee.org/abstract/document/6578545): Reliability-Based Multiview Depth Enhancement Considering Interview Coherence (IEEE Trans. on Circuits and Systems for Video Technology 2014), Jinwook Choi, Dongbo Min, Kwanghoon Sohn.
+      
+   * WMF[[PDF]](http://ieeexplore.ieee.org/document/5963715/): Depth video enhancement based on weighted mode filtering (IEEE Trans. Image Process. 2012), Dongbo Min, Jiangbo Lu, Minh N. Do.
    
 ## Color-Depth Image Super-Resolution
 
    * CDcGAN[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175): Simultaneous color-depth super-resolution with conditional generative adversarial networks (Pattern Recognition 2019), Lijun Zhao, Huihui Bai, Jie Liang, Bing Zen, Anhong Wang, Yao Zhao.
+   
+   * RSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/7095534): Robust Super-Resolution for Mixed-Resolution Multiview Image Plus Depth Data (IEEE Tran. on Circuits and Systems for Video Technology 2015), Thomas Richter, Jürgen Seiler, Wolfgang Schnurrer, André Kaup.
    
    * SSR[[PDF]](https://ieeexplore.ieee.org/document/6618887): Simultaneous Super-Resolution of Depth and Images Using a Single Camera (ECCV2013), Hee Seok Lee, Kuoung Mu Lee.
    
