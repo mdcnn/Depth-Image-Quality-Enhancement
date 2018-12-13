@@ -26,9 +26,10 @@
    * DPN[[PDF]](https://arxiv.org/abs/1607.08569): A Deep Primal-Dual Network for Guided Depth Super-Resolution (BMVC 2016), Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof.
    
 #### Traditional Methods
-   * MSF[[PDF]](https://ieeexplore.ieee.org/abstract/document/8491336): Depth Super-Resolution via Joint Color-Guided Internal and External Regularizations (IEEE Trans. on Image Processing 2019), Xianming Liu, Deming Zhai, Rong Chen, Xiangyang Ji, Debin Zhao, Wen Gao.
+
+   * JCIER[[PDF]](https://ieeexplore.ieee.org/abstract/document/8491336): Depth Super-Resolution via Joint Color-Guided Internal and External Regularizations (IEEE Trans. on Image Processing 2019), Xianming Liu, Deming Zhai, Rong Chen, Xiangyang Ji, Debin Zhao, Wen Gao.
    
-   * MSF[[PDF]](https://ieeexplore.ieee.org/abstract/document/7795253): Joint-Feature Guided Depth Map Super-Resolution With Face Priors (IEEE Trans. on Cybernetics 2018), Shuai Yang, Jiaying Liu, Yuming Fang, Zongming Guo.
+   * JG-DSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/7795253): Joint-Feature Guided Depth Map Super-Resolution With Face Priors (IEEE Trans. on Cybernetics 2018), Shuai Yang, Jiaying Liu, Yuming Fang, Zongming Guo.
 
    * EIE[[PDF]](http://ieeexplore.ieee.org/document/8340850/): Explicit Edge Inconsistency Evaluation Model for Color-guided Depth Map Enhancement (IEEE Trans. on Circuits and Systems for Video Technology 2018), Yifan Zuo, Qiang Wu, Jian Zhang, Ping An.
 
@@ -98,7 +99,7 @@
 
    * IRWF[[PDF]](http://link.springer.com/article/10.1007/s11042-017-5253-1): Iterative range-domain weighted filter for structural preserving image smoothing and de-noising (Multimedia Tools and Applications 2017), Lijun Zhao, Huihui Bai, Anhong Wang, Bing Zeng, Yao Zhao.
 
-   * JIGF: Joint iterative guidance filtering for compressed depth images (Visual Communications and Image Processing (VCIP 2016), Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao.
+   * JIGF[[PDF]](https://www.researchgate.net/publication/312304430_Joint_iterative_guidance_filtering_for_compressed_depth_images: Joint iterative guidance filtering for compressed depth images (Visual Communications and Image Processing (VCIP 2016), Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao.
    
    * CCF[[PDF]](http://ieeexplore.ieee.org/abstract/document/7805550/): Cluster-based cross-view filtering for compressed multi-view depth maps (Proc. Vis. Commun. Image Process. 2016), Zhen Liu, Qiong Liu, You Yang, Yuchi Liu, Gangyi Jiang, Mei Yu.
    
