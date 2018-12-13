@@ -99,7 +99,7 @@
 
    * IRWF[[PDF]](http://link.springer.com/article/10.1007/s11042-017-5253-1): Iterative range-domain weighted filter for structural preserving image smoothing and de-noising (Multimedia Tools and Applications 2017), Lijun Zhao, Huihui Bai, Anhong Wang, Bing Zeng, Yao Zhao.
 
-   * JIGF[[PDF]](https://www.researchgate.net/publication/312304430_Joint_iterative_guidance_filtering_for_compressed_depth_images: Joint iterative guidance filtering for compressed depth images (Visual Communications and Image Processing (VCIP 2016), Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao.
+   * JIGF[[PDF]](https://www.researchgate.net/publication/312304430_Joint_iterative_guidance_filtering_for_compressed_depth_images): Joint iterative guidance filtering for compressed depth images (Visual Communications and Image Processing (VCIP 2016), Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao.
    
    * CCF[[PDF]](http://ieeexplore.ieee.org/abstract/document/7805550/): Cluster-based cross-view filtering for compressed multi-view depth maps (Proc. Vis. Commun. Image Process. 2016), Zhen Liu, Qiong Liu, You Yang, Yuchi Liu, Gangyi Jiang, Mei Yu.
    
