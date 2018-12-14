@@ -5,9 +5,7 @@
    
 ## The summary of some available codes or projects 
 
-#### Available website projects 
-
-   * Robust-Color-Guided-Depth-Map-Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
+   * Robust Color Guided Depth Map Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
 
    * Color-guided Depth Recovery from RGB-D Data Using an Adaptive Auto-regressive Model[[Code]](https://github.com/wliusjtu/Color-guided-Depth-Recovery-from-RGB-D-Data-Using-an-Adaptive-Auto-regressive-Model)
    
@@ -26,9 +24,6 @@
    * ATGV-Net: Accurate Depth Super-Resolution [[Code]](https://github.com/griegler/primal-dual-networks)
    
    * A Deep Primal-Dual Network for Guided Depth Super-Resolution [[Code]](https://github.com/griegler/primal-dual-networks)
-
-   * Joint Super Resolution and Denoising From a Single Depth Image  [[Project]](http://www.clairexie.org/depth_superresolution/index.html) 
-[[Code]](https://github.com/ClaireXie/edgeGuidedSDSP)
    
    * Patch based synthesis for single depth image super-resolution[[Project]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/) 
 [[Code]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/depthSuperRes_code.zip)
@@ -62,13 +57,13 @@
    
    * DSR[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-54190-7_22): Deep Depth Super-Resolution: Learning Depth Super-Resolution Using Deep Convolutional Neural Network (ACCV 2016), Xibin Song, Yuchao Dai, Xueying Qin.
       
-   * DMSG[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_22): Depth Map Super-Resolution by Deep Multi-Scale Guidance (ECCV 2016), Tak-Wai Hui, Chen Change Loy,Xiaoou Tang.
+   * DMSG[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_22)[[Code]](https://github.com/twhui/MSG-Net): Depth Map Super-Resolution by Deep Multi-Scale Guidance (ECCV 2016), Tak-Wai Hui, Chen Change Loy,Xiaoou Tang.
    
-   * DJIF[[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-46493-0_10): Deep Joint Image Filtering (ECCV 2016), Yijun Li, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang.
+   * DJIF[[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-46493-0_10)[[Code]](https://github.com/Yijunmaverick/DeepJointFilter): Deep Joint Image Filtering (ECCV 2016), Yijun Li, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang.
    
-   * ATGV-Net[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_17): ATGV-Net: Accurate Depth Super-Resolution (ECCV 2016), Gernot Riegler, Matthias Rüther, Horst Bischof.
+   * ATGV-Net[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_17)[[Code]](https://github.com/griegler/primal-dual-networks): ATGV-Net: Accurate Depth Super-Resolution (ECCV 2016), Gernot Riegler, Matthias Rüther, Horst Bischof.
 
-   * DPN[[PDF]](https://arxiv.org/abs/1607.08569): A Deep Primal-Dual Network for Guided Depth Super-Resolution (BMVC 2016), Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof.
+   * DPN[[PDF]](https://arxiv.org/abs/1607.08569)[[Code]](https://github.com/griegler/primal-dual-networks): A Deep Primal-Dual Network for Guided Depth Super-Resolution (BMVC 2016), Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof.
    
 #### Traditional Methods
 
@@ -88,9 +83,9 @@
             
    * VSQ-SR[[PDF]](https://ieeexplore.ieee.org/abstract/document/7828010): Depth Map Super-Resolution Considering View Synthesis Quality (IEEE Trans. on Image Processing 2017), Jianjun Lei, Lele Li, Huanjing Yue, Feng Wu, Nam Ling, Chunping Hou.
    
-   * FGI[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175): Fast Guided Global Interpolation for Depth and Motion (ECCV2016), Yu Li, Dongbo Min, Minh N. Do,Jiangbo Lu.
+   * FGI[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175)[[Code]](https://github.com/yu-li/fgi): Fast Guided Global Interpolation for Depth and Motion (ECCV2016), Yu Li, Dongbo Min, Minh N. Do,Jiangbo Lu.
       
-   * EGSR[[PDF]](https://ieeexplore.ieee.org/document/7332765):Edge guided single depth image super resolution (IEEE Trans. Image Process. 2016), Jun Xie, Rogerio Schmidt Feris, Ming-Ting Sun.
+   * EGSR[[PDF]](https://ieeexplore.ieee.org/document/7332765)[[Code]](https://github.com/ClaireXie/edgeGuidedSDSP):Edge guided single depth image super resolution (IEEE Trans. Image Process. 2016), Jun Xie, Rogerio Schmidt Feris, Ming-Ting Sun.
    
    * JSRD[[PDF]](https://ieeexplore.ieee.org/abstract/document/7160743):Joint Super Resolution and Denoising From a Single Depth Image (IEEE Tran. on Multimedia 2015), Jun Xie, Rogerio Schmidt Feris, Shiaw-Shian Yu, Ming-Ting Sun.
       
@@ -110,7 +105,7 @@
    
    * PDUE[[PDF]](https://ieeexplore.ieee.org/document/7574299): Precise depth map upsampling and enhancement based on edge-preserving fusion filters (IET Computer Vision 2018), Ting-An Chang, Jar-Ferr Yang.
 
-   * RGDR[[PDF]](https://ieeexplore.ieee.org/document/7574299): Robust Color Guided Depth Map Restoration (IEEE Trans. Image Process. 2017), Wei Liu, Xiaogang Chen, Jie Yang, Qiang Wu.
+   * RGDR[[PDF]](https://ieeexplore.ieee.org/document/7574299)[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration): Robust Color Guided Depth Map Restoration (IEEE Trans. Image Process. 2017), Wei Liu, Xiaogang Chen, Jie Yang, Qiang Wu.
    
    * EDE[[PDF]](https://www.mdpi.com/1424-8220/17/7/1544/htm): Efficient Depth Enhancement Using a Combination of Color and Depth Information (Sensors 2017), Kyungja Lee, Yuseok Ban, Sangyoun Lee.
    
@@ -138,19 +133,19 @@
 
    * CMF[[PDF]](https://ieeexplore.ieee.org/abstract/document/8449970): Cross-View Multi-Lateral Filter for Compressed Multi-View Depth Video (IEEE Transactions on Image Processing 2019), You Yang, Qiong Liu, Xin He, Zhen Liu.
 
-   * LADF[[Free Offical PDF]](https://authors.elsevier.com/c/1Y6T-bZX4vgxi) [[Web]](https://github.com/mdcnn/Local-Activity-Driven-Filtering): Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing (Signal Processing 2019), Lijun Zhao, Huihui Bai, Jie Liang, Anhong Wang, Bing Zeng, Yao Zhao.
+   * LADF[[Free Offical PDF]](https://authors.elsevier.com/c/1Y6T-bZX4vgxi) [[Web]](https://github.com/mdcnn/Local-Activity-Driven-Filtering)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing (Signal Processing 2019), Lijun Zhao, Huihui Bai, Jie Liang, Anhong Wang, Bing Zeng, Yao Zhao.
    
-   * TSF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0923596517300255): Two-stage filtering of compressed depth images with Markov Random Field (Signal Processing: Image Communication 2017), Lijun Zhao, Huihui Bai, Anhong Wang, Bing Zeng, Yao Zhao.
+   * TSF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0923596517300255)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Two-stage filtering of compressed depth images with Markov Random Field (Signal Processing: Image Communication 2017), Lijun Zhao, Huihui Bai, Anhong Wang, Bing Zeng, Yao Zhao.
 
-   * IRWF[[PDF]](http://link.springer.com/article/10.1007/s11042-017-5253-1): Iterative range-domain weighted filter for structural preserving image smoothing and de-noising (Multimedia Tools and Applications 2017), Lijun Zhao, Huihui Bai, Anhong Wang, Bing Zeng, Yao Zhao.
+   * IRWF[[PDF]](http://link.springer.com/article/10.1007/s11042-017-5253-1)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Iterative range-domain weighted filter for structural preserving image smoothing and de-noising (Multimedia Tools and Applications 2017), Lijun Zhao, Huihui Bai, Anhong Wang, Bing Zeng, Yao Zhao.
 
    * JIGF[[PDF]](https://www.researchgate.net/publication/312304430_Joint_iterative_guidance_filtering_for_compressed_depth_images): Joint iterative guidance filtering for compressed depth images (Visual Communications and Image Processing (VCIP 2016), Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao.
    
    * CCF[[PDF]](http://ieeexplore.ieee.org/abstract/document/7805550/): Cluster-based cross-view filtering for compressed multi-view depth maps (Proc. Vis. Commun. Image Process. 2016), Zhen Liu, Qiong Liu, You Yang, Yuchi Liu, Gangyi Jiang, Mei Yu.
    
-   * CVBF[[PDF]](http://link.springer.com/article/10.1007/s11042-017-5253-1): Candidate value-based boundary filtering for compressed depth images (Electronics Letters 2015), Lijun Zhao, Anhong Wang, Bing Zeng, Yingchun Wu.
+   * CVBF[[PDF]](http://link.springer.com/article/10.1007/s11042-017-5253-1)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Candidate value-based boundary filtering for compressed depth images (Electronics Letters 2015), Lijun Zhao, Anhong Wang, Bing Zeng, Yingchun Wu.
 
-   * ADTF[[PDF]](http://www.sciencedirect.com/science/article/pii/S0923596514000034): Adaptive depth truncation filter for MVC based compressed depth image ( Signal Processing: Image Communication 2014), Xuyuan Xu, Lai-Man Po, Terence Chun-Ho, Cheung, Kwok-Wai Cheung, Litong Feng, Chi-Wang Ting, Ka-HoNga.
+   * ADTF[[PDF]](http://www.sciencedirect.com/science/article/pii/S0923596514000034)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Adaptive depth truncation filter for MVC based compressed depth image ( Signal Processing: Image Communication 2014), Xuyuan Xu, Lai-Man Po, Terence Chun-Ho, Cheung, Kwok-Wai Cheung, Litong Feng, Chi-Wang Ting, Ka-HoNga.
     
    * DBR[[PDF]](http://ieeexplore.ieee.org/document/6531123/): Depth boundary reconstruction based on similarity of adjacent pixels for efficient 3-D video coding (IEEE Trans. Consum. Electron. 2013), Donghyun Kim, Seungchul Ryu, Kwanghoon Sohn.
 
