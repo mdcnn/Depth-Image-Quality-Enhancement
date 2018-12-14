@@ -2,7 +2,34 @@
 
 **A list of depth quality enhancement approaches.**
 **This list is maintained by: Lijun Zhao (PhD candidate Beijing Jiaotong University). If your paper about this topic is not listed among them，please contact us（15112084@bjtu.edu.cn）.**
+
    
+## The summary of some available codes or projects 
+
+#### Available website projects 
+
+   * Depth Map Super-Resolution by Deep Multi-Scale Guidance [[Project]](http://mmlab.ie.cuhk.edu.hk/projects/guidance_SR_depth.html)
+
+   * Deep Joint Image Filtering [[Project]](https://sites.google.com/site/yijunlimaverick/deepjointfilter)
+
+   * Fast Guided Global Interpolation for Depth and Motion [[Project]](https://github.com/yu-li/fgi)
+      
+   * Edge guided single depth image super resolution [[Project]](http://www.clairexie.org/)
+   
+   * Joint Super Resolution and Denoising From a Single Depth Image  [[Project]](http://www.clairexie.org/)
+   
+   * Patch based synthesis for single depth image super-resolution[[Project]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/supp/index.html)
+   
+#### Available testing codes or source codes here.
+
+   * Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing [[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   
+   * Iterative range-domain weighted filter for structural preserving image smoothing and de-noising [[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   
+   * Two-stage filtering of compressed depth images with Markov Random Field [[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   
+   * Candidate value-based boundary filtering for compressed depth images [[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+
 ## Depth Image Super-Resolution
 
 #### CNN-based Methods
@@ -20,6 +47,8 @@
    * DSR[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-54190-7_22): Deep Depth Super-Resolution: Learning Depth Super-Resolution Using Deep Convolutional Neural Network (ACCV 2016), Xibin Song, Yuchao Dai, Xueying Qin.
       
    * DMSG[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_22): Depth Map Super-Resolution by Deep Multi-Scale Guidance (ECCV 2016), Tak-Wai Hui, Chen Change Loy,Xiaoou Tang.
+   
+   * DJIF[[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-46493-0_10): Deep Joint Image Filtering (ECCV 2016), Yijun Li, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang.
    
    * ATGV-Net[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_17): ATGV-Net: Accurate Depth Super-Resolution (ECCV 2016), Gernot Riegler, Matthias Rüther, Horst Bischof.
 
@@ -117,6 +146,10 @@
 
    * CNNDIF[[PDF]](http://link.springer.com/article/10.1007/s11042-017-5253-1): Convolutional Neural Network-based Depth Image Artifact  (ICIP 2017), Lijun Zhao, Jie Liang, Huihui Bai, Anhong Wang, Yao Zhao.
 
-   * CNNC[[PDF]](https://ieeexplore.ieee.org/abstract/document/8305150): A CNN cascade for quality enhancement of compressed depth images  (IEEE Visual Communications and Image Processing 2017), Lijun Zhao, Jie Liang, Huihui Bai, Anhong Wang, Yao Zhao.
+   * CNNC[[PDF]](https://ieeexplore.ieee.org/abstract/document/8305150): A CNN cascade for quality enhancement of compressed depth images  (IEEE Visual Communications and Image Processing 2017), Zhi Jin, Lei Luo, Yi Tang, Wenbin Zou, Xia Li.
+
+
+
+
 
 
