@@ -1,9 +1,9 @@
-# State-of-the-art quality enhancement methods for depth images (Updating)
+# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating)
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
 **This list is maintained by: Lijun Zhao (PhD candidate Beijing Jiaotong University). If your paper about this topic is not listed among them，please contact us（15112084@bjtu.edu.cn）.**
    
-## The summary of some available codes or projects 
+# The summary of some available codes or projects 
 
    * Robust Color Guided Depth Map Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
 
@@ -36,36 +36,33 @@
    
    * Candidate value-based boundary filtering for compressed depth images [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
    
-<p align='center'>  
-  <img src='Depth Image Super-Resolution/imline.jpg' width='1200'/>
+# A list of depth quality enhancement approaches
    
-## A list of depth quality enhancement approaches
-   
-### Depth Image Super-Resolution
+## Depth Image Super-Resolution
 
-#### CNN-based Methods
+##### CNN-based Methods
 
    * CFCNS[[PDF]](https://ieeexplore.ieee.org/abstract/document/8485321): Deep Color Guided Coarse-to-Fine Convolutional Network Cascade for Depth Image Super-Resolution (IEEE Trans. on Image Processing 2019), Yang Wen, Bin Sheng, Ping Li, Weiyao Lin, David Dagan Feng.
-   
+
    * DSDSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8443445): Deeply Supervised Depth Map Super-Resolution as Novel View Synthesis (IEEE Trans. on Circuits and Systems for Video Technology 2019), Xibin Song, Yuchao Dai, Xueying Qin.
-   
+
    * SDISR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8462043): Single Depth Image Super-Resolution Using Convolutional Neural Networks (ICASSP 2018), Baoliang Chen, Cheolkon Jung.
 
    * GDN[[PDF]](https://ieeexplore.ieee.org/abstract/document/7952398): Guided deep network for depth map super-resolution: How much can color help? (ICASSP 2017), Wentian Zhou, Xin Li, Daryl Reynolds.
-   
+
    * FEAG[[PDF]](https://ieeexplore.ieee.org/abstract/document/8305055): Depth super-resolution via fully edge-augmented guidance (IEEE Visual Communications and Image Processing 2017), Jingyu Yang, Hao Lan, Xiaolin Song, Kun Li.
-   
+
    * DSR[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-54190-7_22): Deep Depth Super-Resolution: Learning Depth Super-Resolution Using Deep Convolutional Neural Network (ACCV 2016), Xibin Song, Yuchao Dai, Xueying Qin.
-      
+
    * DMSG[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_22)[[Code]](https://github.com/twhui/MSG-Net): Depth Map Super-Resolution by Deep Multi-Scale Guidance (ECCV 2016), Tak-Wai Hui, Chen Change Loy,Xiaoou Tang.
-   
+
    * DJIF[[PDF]](https://link.springer.com/chapter/10.1007%2F978-3-319-46493-0_10)[[Code]](https://github.com/Yijunmaverick/DeepJointFilter): Deep Joint Image Filtering (ECCV 2016), Yijun Li, Jia-Bin Huang, Narendra Ahuja, Ming-Hsuan Yang.
-   
+
    * ATGV-Net[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_17)[[Code]](https://github.com/griegler/primal-dual-networks): ATGV-Net: Accurate Depth Super-Resolution (ECCV 2016), Gernot Riegler, Matthias Rüther, Horst Bischof.
 
    * DPN[[PDF]](https://arxiv.org/abs/1607.08569)[[Code]](https://github.com/griegler/primal-dual-networks): A Deep Primal-Dual Network for Guided Depth Super-Resolution (BMVC 2016), Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof.
    
-#### Traditional Methods
+##### Traditional Methods
 
    * JCIER[[PDF]](https://ieeexplore.ieee.org/abstract/document/8491336): Depth Super-Resolution via Joint Color-Guided Internal and External Regularizations (IEEE Trans. on Image Processing 2019), Xianming Liu, Deming Zhai, Rong Chen, Xiangyang Ji, Debin Zhao, Wen Gao.
    
@@ -97,7 +94,7 @@
    
    * SDSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/4270236): Spatial-Depth Super Resolution for Range Images (CVPR 2007), Qingxiong Yang, Ruigang Yang, James Davis, David Nister.
       
-### Depth Image Restoration/Enhancement
+## Depth Image Restoration/Enhancement
 
    * PDUE[[PDF]](http://ieeexplore.ieee.org/document/8418219/): Precise depth map upsampling and enhancement based on edge-preserving fusion filters (IET Computer Vision 2018), Ting-An Chang, Jar-Ferr Yang.
    
@@ -119,7 +116,7 @@
       
    * WMF[[PDF]](http://ieeexplore.ieee.org/document/5963715/): Depth video enhancement based on weighted mode filtering (IEEE Trans. Image Process. 2012), Dongbo Min, Jiangbo Lu, Minh N. Do.
    
-### Color-Depth Image Super-Resolution
+## Color-Depth Image Super-Resolution
 
    * CDcGAN[[Project]](https://github.com/mdcnn/CDcGAN)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175): Simultaneous color-depth super-resolution with conditional generative adversarial networks (Pattern Recognition 2019), Lijun Zhao, Huihui Bai, Jie Liang, Bing Zen, Anhong Wang, Yao Zhao.
    
@@ -127,9 +124,9 @@
    
    * SSR[[PDF]](https://ieeexplore.ieee.org/document/6618887): Simultaneous Super-Resolution of Depth and Images Using a Single Camera (ECCV2013), Hee Seok Lee, Kuoung Mu Lee.
    
-### Compressed Depth Image Filtering
+## Compressed Depth Image Filtering
 
-#### Filtering Methods
+##### Filtering Methods
 
    * CMF[[PDF]](https://ieeexplore.ieee.org/abstract/document/8449970): Cross-View Multi-Lateral Filter for Compressed Multi-View Depth Video (IEEE Transactions on Image Processing 2019), You Yang, Qiong Liu, Xin He, Zhen Liu.
 
@@ -151,7 +148,7 @@
 
    * JTF[[PDF]](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=752086): Joint trilateral filtering for depth map compression (Proc. SPIE 2010), Shujie Liu, PoLin Lai, Dong Tian.
    
-#### CNN-based Methods
+##### CNN-based Methods
 
    * IFQE[[PDF]](https://ieeexplore.ieee.org/document/8553082): Information Fusion based Quality Enhancement for 3D Stereo Images Using CNN (EUSIPCO) 2018), Zhi Jin, Haili Luo, Lei Luo, Wenbin Zou, Xia Lil, Eckehard Steinbach.
 
