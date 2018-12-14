@@ -1,36 +1,52 @@
 # State-of-the-art quality enhancement methods for depth images (Updating)
 
-**A list of depth quality enhancement approaches.**
+**A list of depth quality enhancement approaches and the summary of some available codes or projects.**
 **This list is maintained by: Lijun Zhao (PhD candidate Beijing Jiaotong University). If your paper about this topic is not listed among them，please contact us（15112084@bjtu.edu.cn）.**
-
    
 ## The summary of some available codes or projects 
 
 #### Available website projects 
 
-   * Depth Map Super-Resolution by Deep Multi-Scale Guidance [[Project]](http://mmlab.ie.cuhk.edu.hk/projects/guidance_SR_depth.html)
+   * Robust-Color-Guided-Depth-Map-Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
 
-   * Deep Joint Image Filtering [[Project]](https://sites.google.com/site/yijunlimaverick/deepjointfilter)
+   * Color-guided Depth Recovery from RGB-D Data Using an Adaptive Auto-regressive Model[[Code]](https://github.com/wliusjtu/Color-guided-Depth-Recovery-from-RGB-D-Data-Using-an-Adaptive-Auto-regressive-Model)
+   
+   * Depth Map Super-Resolution by Deep Multi-Scale Guidance [[Project]](http://mmlab.ie.cuhk.edu.hk/projects/guidance_SR_depth.html) 
+[[Code]](https://github.com/twhui/MSG-Net)
 
-   * Fast Guided Global Interpolation for Depth and Motion [[Project]](https://github.com/yu-li/fgi)
+   * Deep Joint Image Filtering [[Project]](https://sites.google.com/site/yijunlimaverick/deepjointfilter) 
+[[Code]](https://github.com/Yijunmaverick/DeepJointFilter)
+
+   * Fast Guided Global Interpolation for Depth and Motion [[Project]](http://publish.illinois.edu/visual-modeling-and-analytics/fast-guided-global-interpolation/) 
+[[Code]](https://github.com/yu-li/fgi)
       
-   * Edge guided single depth image super resolution [[Project]](http://www.clairexie.org/)
+   * Edge guided single depth image super resolution [[Project]](http://www.clairexie.org/depth_superresolution/index.html) 
+[[Code]](https://github.com/ClaireXie/edgeGuidedSDSP)
    
-   * Joint Super Resolution and Denoising From a Single Depth Image  [[Project]](http://www.clairexie.org/)
+   * ATGV-Net: Accurate Depth Super-Resolution [[Code]](https://github.com/griegler/primal-dual-networks)
    
-   * Patch based synthesis for single depth image super-resolution[[Project]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/supp/index.html)
-   
-#### Available testing codes or source codes here.
+   * A Deep Primal-Dual Network for Guided Depth Super-Resolution [[Code]](https://github.com/griegler/primal-dual-networks)
 
-   * Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing [[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   * Joint Super Resolution and Denoising From a Single Depth Image  [[Project]](http://www.clairexie.org/depth_superresolution/index.html) 
+[[Code]](https://github.com/ClaireXie/edgeGuidedSDSP)
    
-   * Iterative range-domain weighted filter for structural preserving image smoothing and de-noising [[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
-   
-   * Two-stage filtering of compressed depth images with Markov Random Field [[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
-   
-   * Candidate value-based boundary filtering for compressed depth images [[Project]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   * Patch based synthesis for single depth image super-resolution[[Project]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/) 
+[[Code]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/depthSuperRes_code.zip)
 
-## Depth Image Super-Resolution
+   * Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing [[Project]](https://github.com/mdcnn/Local-Activity-Driven-Filtering) [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   
+   * Iterative range-domain weighted filter for structural preserving image smoothing and de-noising [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   
+   * Two-stage filtering of compressed depth images with Markov Random Field [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   
+   * Candidate value-based boundary filtering for compressed depth images [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   
+<p align='center'>  
+  <img src='Depth Image Super-Resolution/imline.jpg' width='1200'/>
+   
+## A list of depth quality enhancement approaches
+   
+### Depth Image Super-Resolution
 
 #### CNN-based Methods
 
@@ -86,7 +102,7 @@
    
    * SDSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/4270236): Spatial-Depth Super Resolution for Range Images (CVPR 2007), Qingxiong Yang, Ruigang Yang, James Davis, David Nister.
       
-## Depth Image Restoration/Enhancement
+### Depth Image Restoration/Enhancement
 
    * PDUE[[PDF]](http://ieeexplore.ieee.org/document/8418219/): Precise depth map upsampling and enhancement based on edge-preserving fusion filters (IET Computer Vision 2018), Ting-An Chang, Jar-Ferr Yang.
    
@@ -108,15 +124,15 @@
       
    * WMF[[PDF]](http://ieeexplore.ieee.org/document/5963715/): Depth video enhancement based on weighted mode filtering (IEEE Trans. Image Process. 2012), Dongbo Min, Jiangbo Lu, Minh N. Do.
    
-## Color-Depth Image Super-Resolution
+### Color-Depth Image Super-Resolution
 
-   * CDcGAN[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175): Simultaneous color-depth super-resolution with conditional generative adversarial networks (Pattern Recognition 2019), Lijun Zhao, Huihui Bai, Jie Liang, Bing Zen, Anhong Wang, Yao Zhao.
+   * CDcGAN[[Project]](https://github.com/mdcnn/CDcGAN)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175): Simultaneous color-depth super-resolution with conditional generative adversarial networks (Pattern Recognition 2019), Lijun Zhao, Huihui Bai, Jie Liang, Bing Zen, Anhong Wang, Yao Zhao.
    
    * RSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/7095534): Robust Super-Resolution for Mixed-Resolution Multiview Image Plus Depth Data (IEEE Tran. on Circuits and Systems for Video Technology 2015), Thomas Richter, Jürgen Seiler, Wolfgang Schnurrer, André Kaup.
    
    * SSR[[PDF]](https://ieeexplore.ieee.org/document/6618887): Simultaneous Super-Resolution of Depth and Images Using a Single Camera (ECCV2013), Hee Seok Lee, Kuoung Mu Lee.
    
-## Compressed Depth Image Filtering
+### Compressed Depth Image Filtering
 
 #### Filtering Methods
 
