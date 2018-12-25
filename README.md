@@ -99,8 +99,6 @@
    * PDUE[[PDF]](http://ieeexplore.ieee.org/document/8418219/): Precise depth map upsampling and enhancement based on edge-preserving fusion filters (IET Computer Vision 2018), Ting-An Chang, Jar-Ferr Yang.
    
    * RDE[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8281287): Robust depth enhancement based on texture and depth consistency (IET Computer Vision 2018), Ting-An Chang, Wei-Chen Liao, Jar-Ferr Yang.
-   
-   * PDUE[[PDF]](https://ieeexplore.ieee.org/document/7574299): Precise depth map upsampling and enhancement based on edge-preserving fusion filters (IET Computer Vision 2018), Ting-An Chang, Jar-Ferr Yang.
 
    * RGDR[[PDF]](https://ieeexplore.ieee.org/document/7574299)[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration): Robust Color Guided Depth Map Restoration (IEEE Trans. Image Process. 2017), Wei Liu, Xiaogang Chen, Jie Yang, Qiang Wu.
    
