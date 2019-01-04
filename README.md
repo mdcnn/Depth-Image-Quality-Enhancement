@@ -5,6 +5,19 @@
    
 # The summary of some available codes or projects 
 
+   * Depth-Enhancement-Toolbox(Thanks to Junyi Liu)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/depth-enhancement_toolbox)
+      * Joint Bilateral Filter[[PDF]](http://vis.berkeley.edu/papers/fnf/fnfSmall.pdf) Digital photography with flash and no-flash image pairs
+      * Joint Bilateral Upsampling[[PDF]](http://kops.uni-konstanz.de/bitstream/handle/123456789/5563/Joint_Bilateral_Upsampling.pdf?sequence=1) Joint bilateral upsampling
+      * Noise-aware Filter[[PDF]](https://www.ixueshu.com/document/72fc6ba0dffd13cf318947a18e7f9386.html) A noise-aware filter for real-time depth upsampling
+      * Weight Mode Filter[[PDF]](http://ieeexplore.ieee.org/document/5963715/) Depth video enhancement based on weighted mode filtering
+      * Anisotropic Diffusion[[PDF]](http://link.springer.com/content/pdf/10.1007%2F978-3-319-03731-8_38.pdf) Guided Depth enhancement via Anisotropic Diffusion
+      * Markov Random Field[[PDF]](http://www.docin.com/p-1500754906.html) An application of markov random fields to range sensing
+      * Markov Random Field[[PDF]](http://www.springerlink.com/index/lp737451771w1038.pdf)(Second Order Smoothness) Image and sparse laser fusion for dense scene reconstruction
+      * Markov Random Field(Kernel Data Term)
+      * Markov Random Field(Tensor)
+      * Layered Bilateral Filter[[PDF]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=4270236) Spatial-depth super resolution for range images
+
+
    * Robust Color Guided Depth Map Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
 
    * Color-guided Depth Recovery from RGB-D Data Using an Adaptive Auto-regressive Model[[Code]](https://github.com/wliusjtu/Color-guided-Depth-Recovery-from-RGB-D-Data-Using-an-Adaptive-Auto-regressive-Model)
@@ -42,6 +55,9 @@
 
 ##### CNN-based Methods
 
+   * MFR[[PDF]](https://ieeexplore.ieee.org/document/8598786): Multi-scale Frequency Reconstruction for Guided
+Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits and Systems for Video Technology 2019), Yifan Zuo, Qiang Wu, Yuming Fang, Ping An, Liqin Huang, Zhifeng Chen.
+
    * CFCNS[[PDF]](https://ieeexplore.ieee.org/abstract/document/8485321): Deep Color Guided Coarse-to-Fine Convolutional Network Cascade for Depth Image Super-Resolution (IEEE Trans. on Image Processing 2019), Yang Wen, Bin Sheng, Ping Li, Weiyao Lin, David Dagan Feng.
 
    * DSDSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8443445): Deeply Supervised Depth Map Super-Resolution as Novel View Synthesis (IEEE Trans. on Circuits and Systems for Video Technology 2019), Xibin Song, Yuchao Dai, Xueying Qin.
@@ -63,6 +79,9 @@
    * DPN[[PDF]](https://arxiv.org/abs/1607.08569)[[Code]](https://github.com/griegler/primal-dual-networks): A Deep Primal-Dual Network for Guided Depth Super-Resolution (BMVC 2016), Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof.
    
 ##### Traditional Methods
+
+   * CGDIR[[PDF]](https://ieeexplore.ieee.org/document/8598824/): Color-Guided Depth Image Recovery with Adaptive
+Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Circuits and Systems for Video Technology 2019), Yongbing Zhang, Yihui Feng, Xianming Liu, Deming Zhai, Xiangyang Ji, Haoqian Wang, and Qionghai Dai
 
    * JCIER[[PDF]](https://ieeexplore.ieee.org/abstract/document/8491336): Depth Super-Resolution via Joint Color-Guided Internal and External Regularizations (IEEE Trans. on Image Processing 2019), Xianming Liu, Deming Zhai, Rong Chen, Xiangyang Ji, Debin Zhao, Wen Gao.
    
@@ -108,7 +127,7 @@
       
    * LTPA[[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Matsuo_Depth_Image_Enhancement_2015_CVPR_paper.pdf): Depth Image Enhancement Using Local Tangent Plane Approximations (CVPR 2015), Kiyoshi Matsuo, Yoshimitsu Aoki.
    
-   * LRMC[[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Lu_Depth_Enhancement_via_2014_CVPR_paper.pdf): Depth Enhancement via Low-rank Matrix Completion (CVPR 2014), Si Lu, Xiaofeng Ren, Feng Liu.
+   * LRMC[[Project]](http://web.cecs.pdx.edu/~fliu/project/depth-enhance/)[[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Lu_Depth_Enhancement_via_2014_CVPR_paper.pdf): Depth Enhancement via Low-rank Matrix Completion (CVPR 2014), Si Lu, Xiaofeng Ren, Feng Liu.
       
    * RMDE[[PDF]](https://ieeexplore.ieee.org/abstract/document/6578545): Reliability-Based Multiview Depth Enhancement Considering Interview Coherence (IEEE Trans. on Circuits and Systems for Video Technology 2014), Jinwook Choi, Dongbo Min, Kwanghoon Sohn.
       
