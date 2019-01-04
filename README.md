@@ -1,7 +1,7 @@
 # STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating)
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
-**This list is maintained by: Lijun Zhao (PhD candidate Beijing Jiaotong University). If your paper about this topic is not listed among them，please contact us（15112084@bjtu.edu.cn）.**
+**This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/) (PhD candidate Beijing Jiaotong University). If your paper about this topic is not listed among them，please contact us（15112084@bjtu.edu.cn）.**
    
 # The summary of some available codes or projects 
 
