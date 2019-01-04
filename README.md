@@ -6,17 +6,21 @@
 # The summary of some available codes or projects 
 
    * Depth-Enhancement-Toolbox(Thanks to Junyi Liu)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/depth-enhancement_toolbox)
+      
       * Joint Bilateral Filter[[PDF]](http://vis.berkeley.edu/papers/fnf/fnfSmall.pdf) Digital photography with flash and no-flash image pairs
       * Joint Bilateral Upsampling[[PDF]](http://kops.uni-konstanz.de/bitstream/handle/123456789/5563/Joint_Bilateral_Upsampling.pdf?sequence=1) Joint bilateral upsampling
+      
       * Noise-aware Filter[[PDF]](https://www.ixueshu.com/document/72fc6ba0dffd13cf318947a18e7f9386.html) A noise-aware filter for real-time depth upsampling
+      
       * Weight Mode Filter[[PDF]](http://ieeexplore.ieee.org/document/5963715/) Depth video enhancement based on weighted mode filtering
+      
       * Anisotropic Diffusion[[PDF]](http://link.springer.com/content/pdf/10.1007%2F978-3-319-03731-8_38.pdf) Guided Depth enhancement via Anisotropic Diffusion
+      
       * Markov Random Field[[PDF]](http://www.docin.com/p-1500754906.html) An application of markov random fields to range sensing
-      * Markov Random Field[[PDF]](http://www.springerlink.com/index/lp737451771w1038.pdf)(Second Order Smoothness) Image and sparse laser fusion for dense scene reconstruction
-      * Markov Random Field(Kernel Data Term)
-      * Markov Random Field(Tensor)
+      
+      * Markov Random Field[[PDF]](http://www.springerlink.com/index/lp737451771w1038.pdf) Image and sparse laser fusion for dense scene reconstruction
+      
       * Layered Bilateral Filter[[PDF]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=4270236) Spatial-depth super resolution for range images
-
 
    * Robust Color Guided Depth Map Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
 
