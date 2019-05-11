@@ -61,6 +61,12 @@
 
 ##### CNN-based Methods
 
+   * RDN[[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025519303913): Residual dense network for intensity-guided depth map enhancement (Information Sciences 2019), Yifan Zuo, Qiang Wu, Yuming Fang, Yong Yang, Xiwu Shang, Bin Wang.
+   
+   * PDDSR[[PDF]](https://arxiv.org/abs/1812.09874): Perceptual deep depth super-resolution (arXiv), Oleg Voinov, Alexey Artemov, Vage Egiazarian, Alexander Notchenko, Gleb Bobrovskikh, Denis Zorin, Evgeny Burnaev.
+   
+   * MRGPS[[PDF]](https://ieeexplore.ieee.org/document/8703382): Depth Map Super-Resolution via Multilevel Recursive Guidance and Progressive Supervision (IEEE ACCESS 2019), Bolan Yang, Xiaoting Fan, Zexun Zheng, Xiaohuan Liu, Kaiming Zhang, Jianjun Lei.
+   
    * MFR[[PDF]](https://ieeexplore.ieee.org/document/8598786): Multi-scale Frequency Reconstruction for Guided
 Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits and Systems for Video Technology 2019), Yifan Zuo, Qiang Wu, Yuming Fang, Ping An, Liqin Huang, Zhifeng Chen.
 
@@ -70,6 +76,8 @@ Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits an
 
    * SDISR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8462043): Single Depth Image Super-Resolution Using Convolutional Neural Networks (ICASSP 2018), Baoliang Chen, Cheolkon Jung.
 
+   * FDMSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8699247/references#references): Fast Depth Map Super-Resolution Using Deep Neural Network (2018 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)), Alisa Korinevskaya, Ilya Makarov.
+   
    * GDN[[PDF]](https://ieeexplore.ieee.org/abstract/document/7952398): Guided deep network for depth map super-resolution: How much can color help? (ICASSP 2017), Wentian Zhou, Xin Li, Daryl Reynolds.
 
    * FEAG[[PDF]](https://ieeexplore.ieee.org/abstract/document/8305055): Depth super-resolution via fully edge-augmented guidance (IEEE Visual Communications and Image Processing 2017), Jingyu Yang, Hao Lan, Xiaolin Song, Kun Li.
@@ -86,6 +94,8 @@ Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits an
    
 ##### Traditional Methods
 
+   * AGDSR[[PDF]](https://ieeexplore.ieee.org/document/8683395/authors): Alternately Guided Depth Super-resolution Using Weighted Least Squares and Zero-order Reverse Filtering (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Kailong Zhou, Shengtao Yu, Cheolkon Jung.
+
    * CGDIR[[PDF]](https://ieeexplore.ieee.org/document/8598824/): Color-Guided Depth Image Recovery with Adaptive
 Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Circuits and Systems for Video Technology 2019), Yongbing Zhang, Yihui Feng, Xianming Liu, Deming Zhai, Xiangyang Ji, Haoqian Wang, and Qionghai Dai
 
@@ -97,6 +107,8 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
 
    * MSF[[PDF]](http://ieeexplore.ieee.org/document/8340850/): Minimum spanning forest with embedded edge inconsistency measurement model for guided depth map enhancement (IEEE Trans. Image Process. 2018), Yifan Zuo, Qiang Wu, Jian Zhang, Ping An.
    
+   * MJTF[[PDF]](https://royalsocietypublishing.org/doi/full/10.1098/rsos.181074): Depth image super-resolution reconstruction based on a modified joint trilateral filter (2018 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)), Dongsheng Zhou, Ruyi Wang, Xin Yang, Qiang Zhang, Xiaopeng Wei.
+      
    * MRDLR[[PDF]](https://ieeexplore.ieee.org/document/8019331): Single depth image super-resolution with multiple residual dictionary learning and refinement (ICME 2017), Lijun Zhao, Huihui Bai, Jie Liang, Anhong Wang, Yao Zhao.
    
    * VBW[[PDF]](https://ieeexplore.ieee.org/document/7457345): Variable Bandwidth Weighting for Texture Copy Artifact Suppression in Guided Depth Upsampling (IEEE Trans. on Circuits and Systems for Video Technology 2017), Wei Liu, Xiaogang Chen, Jie Yang, Qiang Wu.
