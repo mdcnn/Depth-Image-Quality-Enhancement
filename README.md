@@ -1,7 +1,7 @@
 # STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating)
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
-**This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/) (PhD candidate Beijing Jiaotong University). If your paper about [[this topic]](https://www.researchgate.net/project/Depth-Image-Quality-Enhancement?_sg=HmdjiODaWxK16knSMpg145NO57irmDyf9eT89AvdRvGQW0PF7183AyVlmtKWRSpiWeIuHNSZiG_aqkORdaCIlJI06BW-802edcCB) is not listed among them，please contact us（15112084@bjtu.edu.cn）.**
+**This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/) (I will join Taiyuan University of Science and Technology as a Lecturer). If your paper about [[this topic]](https://www.researchgate.net/project/Depth-Image-Quality-Enhancement?_sg=HmdjiODaWxK16knSMpg145NO57irmDyf9eT89AvdRvGQW0PF7183AyVlmtKWRSpiWeIuHNSZiG_aqkORdaCIlJI06BW-802edcCB) is not listed among them，please contact us（15112084@bjtu.edu.cn）.**
    
 # The summary of some available codes or projects 
 
@@ -94,6 +94,8 @@ Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits an
    
 ##### Traditional Methods
 
+   * CIN[[PDF]](https://ieeexplore.ieee.org/document/8682646): Coupled Ista Network for Multi-modal Image Super-resolution (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Xin Deng, Pier Luigi Dragotti.
+   
    * AGDSR[[PDF]](https://ieeexplore.ieee.org/document/8683395/authors): Alternately Guided Depth Super-resolution Using Weighted Least Squares and Zero-order Reverse Filtering (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Kailong Zhou, Shengtao Yu, Cheolkon Jung.
 
    * CGDIR[[PDF]](https://ieeexplore.ieee.org/document/8598824/): Color-Guided Depth Image Recovery with Adaptive
@@ -127,12 +129,14 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
       
    * HDMU[[PDF]](http://ieeexplore.ieee.org/document/6914600/): High-Quality Depth Map Upsampling and Completion for RGB-D Cameras (IEEE Trans. Image Process. 2014), Jaesik Park, Hyeongwoo Kim, Yu-Wing Tai, Michael S. Brown, In So Kweon.
 
-   * PS[[PDF]](http://link.springer.com/chapter/10.1007/978-3-642-33712-3_6): Patch based synthesis for single depth image super-resolution (ECCV 2012), Oisin Mac, AodhaNeill D. F., CampbellArun Nair,, Gabriel J. Brostow.
+   * PS[[PDF]](http://link.springer.com/chapter/10.1007/978-3-642-33712-3_6): Patch based synthesis for single depth image super-resolution (ECCV 2012), Oisin Mac, AodhaNeill D. F., CampbellArun Nair, Gabriel J. Brostow.
    
    * SDSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/4270236): Spatial-Depth Super Resolution for Range Images (CVPR 2007), Qingxiong Yang, Ruigang Yang, James Davis, David Nister.
       
 ## Depth Image Restoration/Enhancement
 
+   * PDUE[[PDF]](https://ieeexplore.ieee.org/document/8683638): Multiscale Directional Fusion for Depth Map Super Resolution with Denoising (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Dan Xu, Xiaopeng Fan, Shibo Zhang, Yang Wang, Debin Zhao, Wen Gao.
+   
    * PDUE[[PDF]](http://ieeexplore.ieee.org/document/8418219/): Precise depth map upsampling and enhancement based on edge-preserving fusion filters (IET Computer Vision 2018), Ting-An Chang, Jar-Ferr Yang.
    
    * RDE[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8281287): Robust depth enhancement based on texture and depth consistency (IET Computer Vision 2018), Ting-An Chang, Wei-Chen Liao, Jar-Ferr Yang.
@@ -154,6 +158,8 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
 ## Color-Depth Image Super-Resolution
 
    * CDcGAN[[Project]](https://github.com/mdcnn/CDcGAN)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175): Simultaneous color-depth super-resolution with conditional generative adversarial networks (Pattern Recognition 2019), Lijun Zhao, Huihui Bai, Jie Liang, Bing Zen, Anhong Wang, Yao Zhao.
+   
+   * MFSR[[PDF]](https://ieeexplore.ieee.org/document/8683042): Multi-frame Super-resolution for Time-of-flight Imaging (Pattern Recognition 2019), Fengqiang Li, Pablo Ruiz, Oliver Cossairt, Aggelos K. Katsaggelos.
    
    * RSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/7095534): Robust Super-Resolution for Mixed-Resolution Multiview Image Plus Depth Data (IEEE Tran. on Circuits and Systems for Video Technology 2015), Thomas Richter, Jürgen Seiler, Wolfgang Schnurrer, André Kaup.
    
