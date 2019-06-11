@@ -1,7 +1,9 @@
 # STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating)
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
-**This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/). If your paper about [[this topic]](https://www.researchgate.net/project/Depth-Image-Quality-Enhancement?_sg=HmdjiODaWxK16knSMpg145NO57irmDyf9eT89AvdRvGQW0PF7183AyVlmtKWRSpiWeIuHNSZiG_aqkORdaCIlJI06BW-802edcCB) is not listed among them，please contact us（15112084@bjtu.edu.cn）.**
+**This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/). If your paper about [[this topic]](https://www.researchgate.net/project/Depth-Image-Quality-Enhancement?_sg=HmdjiODaWxK16knSMpg145NO57irmDyf9eT89AvdRvGQW0PF7183AyVlmtKWRSpiWeIuHNSZiG_aqkORdaCIlJI06BW-802edcCB) is not listed among them，please contact us（15112084@bjtu.edu.cn）. Maybe you are interested in [[Latest Image and Video Compression/Coding Resource]](https://github.com/mdcnn/Image-and-Video-Compression-Resource)**
+
+
    
 # The summary of some available codes or projects 
 
@@ -183,7 +185,7 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
    
    * CVBF[[PDF]](http://link.springer.com/article/10.1007/s11042-017-5253-1)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Candidate value-based boundary filtering for compressed depth images (Electronics Letters 2015), Lijun Zhao, Anhong Wang, Bing Zeng, Yingchun Wu.
 
-   * ADTF[[PDF]](http://www.sciencedirect.com/science/article/pii/S0923596514000034)[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering): Adaptive depth truncation filter for MVC based compressed depth image ( Signal Processing: Image Communication 2014), Xuyuan Xu, Lai-Man Po, Terence Chun-Ho, Cheung, Kwok-Wai Cheung, Litong Feng, Chi-Wang Ting, Ka-HoNga.
+   * ADTF[[PDF]](http://www.sciencedirect.com/science/article/pii/S0923596514000034): Adaptive depth truncation filter for MVC based compressed depth image ( Signal Processing: Image Communication 2014), Xuyuan Xu, Lai-Man Po, Terence Chun-Ho, Cheung, Kwok-Wai Cheung, Litong Feng, Chi-Wang Ting, Ka-HoNga.
     
    * DBR[[PDF]](http://ieeexplore.ieee.org/document/6531123/): Depth boundary reconstruction based on similarity of adjacent pixels for efficient 3-D video coding (IEEE Trans. Consum. Electron. 2013), Donghyun Kim, Seungchul Ryu, Kwanghoon Sohn.
 
@@ -193,7 +195,7 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
 
    * IFQE[[PDF]](https://ieeexplore.ieee.org/document/8553082): Information Fusion based Quality Enhancement for 3D Stereo Images Using CNN (EUSIPCO) 2018), Zhi Jin, Haili Luo, Lei Luo, Wenbin Zou, Xia Lil, Eckehard Steinbach.
 
-   * CNNDIF[[PDF]](http://link.springer.com/article/10.1007/s11042-017-5253-1): Convolutional Neural Network-based Depth Image Artifact  (ICIP 2017), Lijun Zhao, Jie Liang, Huihui Bai, Anhong Wang, Yao Zhao.
+   * CNNDIF[[PDF]](https://www.researchgate.net/publication/316943318_Convolutional_Neural_Network-based_Depth_Image_Artifact_Removal): Convolutional neural network-based depth image artifact remova  (ICIP 2017), Lijun Zhao, Jie Liang, Huihui Bai, Anhong Wang, Yao Zhao.
 
    * CNNC[[PDF]](https://ieeexplore.ieee.org/abstract/document/8305150): A CNN cascade for quality enhancement of compressed depth images  (IEEE Visual Communications and Image Processing 2017), Zhi Jin, Lei Luo, Yi Tang, Wenbin Zou, Xia Li.
 
