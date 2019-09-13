@@ -2,36 +2,35 @@
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
 **This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/). If your paper about [[this topic]](https://www.researchgate.net/project/Depth-Image-Quality-Enhancement?_sg=HmdjiODaWxK16knSMpg145NO57irmDyf9eT89AvdRvGQW0PF7183AyVlmtKWRSpiWeIuHNSZiG_aqkORdaCIlJI06BW-802edcCB) is not listed among them，please contact us（15112084@bjtu.edu.cn）. Maybe you are interested in [[Latest Image and Video Compression/Coding Resource]](https://github.com/mdcnn/Image-and-Video-Compression-Resource)**
-
-
    
 # The summary of some available codes or projects 
 
    * Depth-Enhancement-Toolbox(Thanks to Junyi Liu(Email:shshzaa@zju.edu.cn))[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/depth-enhancement_toolbox)
       
-      * Joint Bilateral Filter[[PDF]](http://vis.berkeley.edu/papers/fnf/fnfSmall.pdf) Digital photography with flash and no-flash image pairs
-      * Joint Bilateral Upsampling[[PDF]](http://kops.uni-konstanz.de/bitstream/handle/123456789/5563/Joint_Bilateral_Upsampling.pdf?sequence=1) Joint bilateral upsampling
-      
-      * Noise-aware Filter[[PDF]](https://www.ixueshu.com/document/72fc6ba0dffd13cf318947a18e7f9386.html) A noise-aware filter for real-time depth upsampling
-      
-      * Weight Mode Filter[[PDF]](http://ieeexplore.ieee.org/document/5963715/) Depth video enhancement based on weighted mode filtering
-      
-      * Anisotropic Diffusion[[PDF]](http://link.springer.com/content/pdf/10.1007%2F978-3-319-03731-8_38.pdf) Guided Depth enhancement via Anisotropic Diffusion
-      
-      * Markov Random Field[[PDF]](http://www.docin.com/p-1500754906.html) An application of markov random fields to range sensing
-      
-      * Markov Random Field[[PDF]](http://www.springerlink.com/index/lp737451771w1038.pdf) Image and sparse laser fusion for dense scene reconstruction
-      
-      * Layered Bilateral Filter[[PDF]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=4270236) Spatial-depth super resolution for range images
-
-   * Robust Color Guided Depth Map Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
-
-   * Color-guided Depth Recovery from RGB-D Data Using an Adaptive Auto-regressive Model[[Code]](https://github.com/wliusjtu/Color-guided-Depth-Recovery-from-RGB-D-Data-Using-an-Adaptive-Auto-regressive-Model)
+   * Joint Bilateral Filter[[PDF]](http://vis.berkeley.edu/papers/fnf/fnfSmall.pdf) Digital photography with flash and no-flash image pairs
    
-   * Depth Map Super-Resolution by Deep Multi-Scale Guidance [[Project]](http://mmlab.ie.cuhk.edu.hk/projects/guidance_SR_depth.html) 
+   * Joint Bilateral Upsampling[[PDF]](http://kops.uni-konstanz.de/bitstream/handle/123456789/5563/Joint_Bilateral_Upsampling.pdf?sequence=1) Joint bilateral upsampling
+      
+  * Noise-aware Filter[[PDF]](https://www.ixueshu.com/document/72fc6ba0dffd13cf318947a18e7f9386.html) A noise-aware filter for real-time depth upsampling
+      
+  * Weight Mode Filter[[PDF]](http://ieeexplore.ieee.org/document/5963715/) Depth video enhancement based on weighted mode filtering
+      
+  * Anisotropic Diffusion[[PDF]](http://link.springer.com/content/pdf/10.1007%2F978-3-319-03731-8_38.pdf) Guided Depth enhancement via Anisotropic Diffusion
+      
+  * Markov Random Field[[PDF]](http://www.docin.com/p-1500754906.html) An application of markov random fields to range sensing
+      
+  * Markov Random Field[[PDF]](http://www.springerlink.com/index/lp737451771w1038.pdf) Image and sparse laser fusion for dense scene reconstruction
+      
+  * Layered Bilateral Filter[[PDF]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=4270236) Spatial-depth super resolution for range images
+
+  * Robust Color Guided Depth Map Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
+
+  * Color-guided Depth Recovery from RGB-D Data Using an Adaptive Auto-regressive Model[[Code]](https://github.com/wliusjtu/Color-guided-Depth-Recovery-from-RGB-D-Data-Using-an-Adaptive-Auto-regressive-Model)
+   
+  * Depth Map Super-Resolution by Deep Multi-Scale Guidance [[Project]](http://mmlab.ie.cuhk.edu.hk/projects/guidance_SR_depth.html) 
 [[Code]](https://github.com/twhui/MSG-Net)
 
-   * Deep Joint Image Filtering [[Project]](https://sites.google.com/site/yijunlimaverick/deepjointfilter) 
+  * Deep Joint Image Filtering [[Project]](https://sites.google.com/site/yijunlimaverick/deepjointfilter) 
 [[Code]](https://github.com/Yijunmaverick/DeepJointFilter)
 
    * Fast Guided Global Interpolation for Depth and Motion [[Project]](http://publish.illinois.edu/visual-modeling-and-analytics/fast-guided-global-interpolation/) 
@@ -75,6 +74,12 @@ Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits an
    * CFCNS[[PDF]](https://ieeexplore.ieee.org/abstract/document/8485321): Deep Color Guided Coarse-to-Fine Convolutional Network Cascade for Depth Image Super-Resolution (IEEE Trans. on Image Processing 2019), Yang Wen, Bin Sheng, Ping Li, Weiyao Lin, David Dagan Feng.
 
    * DSDSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8443445): Deeply Supervised Depth Map Super-Resolution as Novel View Synthesis (IEEE Trans. on Circuits and Systems for Video Technology 2019), Xibin Song, Yuchao Dai, Xueying Qin.
+   
+   * DEN-EDF[[PDF]](https://ieeexplore.ieee.org/abstract/document/8461357): Depth Super-Resolution with Deep Edge-Inference Network and Edge-Guided Depth Filling (2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Xinchen Ye, Xiangyue Duan ; Haojie Li.
+   
+   * CDMSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8547124): Color-Guided Depth Map Super-Resolution via Joint Graph Laplacian and Gradient Consistency Regularization (2018 IEEE 20th International Workshop on Multimedia Signal Processing (MMSP)), Rong Chen, Deming Zhai, Xianming Liu, Debin Zhao.
+
+   * JCNP[[PDF]](https://arxiv.org/abs/1801.00968): Joint convolutional neural pyramid for depth map super-resolution (arXiv.org 2018), Yi Xiao, Xiang Cao, Xianyi Zhu, Renzhi Yang, Yan Zheng.
 
    * SDISR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8462043): Single Depth Image Super-Resolution Using Convolutional Neural Networks (ICASSP 2018), Baoliang Chen, Cheolkon Jung.
 
@@ -96,12 +101,22 @@ Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits an
    
 ##### Traditional Methods
 
+   * JSC-DISR[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0167865518303222): Depth image super-resolution based on joint sparse coding (Pattern Recognition Letters), Beichen Li, Yuan Zhou, Yeda Zhang, Aihua Wang.
+
+   * TSDR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8291613): Depth Super-Resolution From RGB-D Pairs With Transform and Spatial Domain Regularization (IEEE Transactions on Image Processing), Zhongyu Jiang, Yonghong Hou, Huanjing Yue, Jingyu Yang, Chunping Hou.
+
+   * SFNM[[PDF]](https://link.springer.com/article/10.1007/s11801-018-8039-4): Depth image super-resolution algorithm based on structural features and non-local means (Optoelectronics Letters), Wang Jing, Wei-Zhong Zhang, Bao-Xiang Huang, Huan Yang.
+
+   * PDSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8738841/metrics#metrics): Photometric Depth Super-Resolution (IEEE Transactions on Pattern Analysis and Machine Intelligence), Bjoern Haefner, Songyou Peng, Alok Verma, Yvain Quéau, Daniel Cremers.
+   
+   * SSV-DSR[[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Haefner_Fight_Ill-Posedness_With_CVPR_2018_paper.html): Fight Ill-Posedness With Ill-Posedness: Single-Shot Variational Depth Super-Resolution From Shading (The IEEE Conference on Computer Vision and Pattern Recognition (CVPR2018)), Bjoern Haefner, Yvain Quéau, Thomas Möllenhoff, Daniel Cremers.
+      
    * CIN[[PDF]](https://ieeexplore.ieee.org/document/8682646): Coupled Ista Network for Multi-modal Image Super-resolution (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Xin Deng, Pier Luigi Dragotti.
    
    * AGDSR[[PDF]](https://ieeexplore.ieee.org/document/8683395/authors): Alternately Guided Depth Super-resolution Using Weighted Least Squares and Zero-order Reverse Filtering (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Kailong Zhou, Shengtao Yu, Cheolkon Jung.
 
    * CGDIR[[PDF]](https://ieeexplore.ieee.org/document/8598824/): Color-Guided Depth Image Recovery with Adaptive
-Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Circuits and Systems for Video Technology 2019), Yongbing Zhang, Yihui Feng, Xianming Liu, Deming Zhai, Xiangyang Ji, Haoqian Wang, and Qionghai Dai
+Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Circuits and Systems for Video Technology 2019), Yongbing Zhang, Yihui Feng, Xianming Liu, Deming Zhai, Xiangyang Ji, Haoqian Wang, and Qionghai Dai.
 
    * JCIER[[PDF]](https://ieeexplore.ieee.org/abstract/document/8491336): Depth Super-Resolution via Joint Color-Guided Internal and External Regularizations (IEEE Trans. on Image Processing 2019), Xianming Liu, Deming Zhai, Rong Chen, Xiangyang Ji, Debin Zhao, Wen Gao.
    
@@ -121,28 +136,46 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
             
    * VSQ-SR[[PDF]](https://ieeexplore.ieee.org/abstract/document/7828010): Depth Map Super-Resolution Considering View Synthesis Quality (IEEE Trans. on Image Processing 2017), Jianjun Lei, Lele Li, Huanjing Yue, Feng Wu, Nam Ling, Chunping Hou.
    
-   * FGI[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175)[[Code]](https://github.com/yu-li/fgi): Fast Guided Global Interpolation for Depth and Motion (ECCV2016), Yu Li, Dongbo Min, Minh N. Do,Jiangbo Lu.
+   * FGI[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320318304175)[[Code]](https://github.com/yu-li/fgi): Fast Guided Global Interpolation for Depth and Motion (ECCV2016), Yu Li, Dongbo Min, Minh N. Do, Jiangbo Lu.
       
    * EGSR[[PDF]](https://ieeexplore.ieee.org/document/7332765)[[Code]](https://github.com/ClaireXie/edgeGuidedSDSP):Edge guided single depth image super resolution (IEEE Trans. Image Process. 2016), Jun Xie, Rogerio Schmidt Feris, Ming-Ting Sun.
    
    * JSRD[[PDF]](https://ieeexplore.ieee.org/abstract/document/7160743):Joint Super Resolution and Denoising From a Single Depth Image (IEEE Tran. on Multimedia 2015), Jun Xie, Rogerio Schmidt Feris, Shiaw-Shian Yu, Ming-Ting Sun.
       
    * SVAM[[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231214011138): Depth map super-resolution using stereo-vision-assisted model (Neurocomputing 2015), Yuxiang Yang, Mingyu Gao, Jing Zhang, Zhengjun Zha, Zengfu Wang.
-      
-   * HDMU[[PDF]](http://ieeexplore.ieee.org/document/6914600/): High-Quality Depth Map Upsampling and Completion for RGB-D Cameras (IEEE Trans. Image Process. 2014), Jaesik Park, Hyeongwoo Kim, Yu-Wing Tai, Michael S. Brown, In So Kweon.
 
    * PS[[PDF]](http://link.springer.com/chapter/10.1007/978-3-642-33712-3_6): Patch based synthesis for single depth image super-resolution (ECCV 2012), Oisin Mac, AodhaNeill D. F., CampbellArun Nair, Gabriel J. Brostow.
    
    * SDSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/4270236): Spatial-Depth Super Resolution for Range Images (CVPR 2007), Qingxiong Yang, Ruigang Yang, James Davis, David Nister.
+   
+## Depth Image Inpainting/Completion
+
+   * HQ3DR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8628990): High-Quality 3D Reconstruction With Depth Super-Resolution and Completion (IEEE Access 2019), Jianwei Li, Wei Gao, Yihong Wu.
+
+   * IDC[[PDF]](https://arxiv.org/abs/1908.08344): Indoor Depth Completion with Boundary Consistency and Self-Attention (ICCV 2019), Yu-Kai Huang, Tsung-Han Wu, Yueh-Cheng Liu, Winston H. Hsu.
+   
+   * EDI[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0923596518303631): Exemplar-based depth inpainting with arbitrary-shape patches and cross-modal matching (Signal Processing: Image Communication 2019), SenXiang, HuipingDeng, LeiZhua, Jin Wu, Li Yu.
+   
+   * HDMU[[PDF]](http://ieeexplore.ieee.org/document/6914600/): High-Quality Depth Map Upsampling and Completion for RGB-D Cameras (IEEE Trans. Image Process. 2014), Jaesik Park, Hyeongwoo Kim, Yu-Wing Tai, Michael S. Brown, In So Kweon.
       
 ## Depth Image Restoration/Enhancement
+
+   * LD3D[[PDF]](https://ieeexplore.ieee.org/abstract/document/8327836): Depth Super-Resolution on RGB-D Video Sequences With Large Displacement 3D Motion (IEEE Transactions on Image Processing), Yucheng Wang, Jian Zhang, Zicheng Liu, Qiang Wu, Zhengyou Zhang, Yunde Jia.
+
+   * DGR[[PDF]](https://arxiv.org/abs/1907.02841): Depth Restoration: A fast low-rank matrix completion via dual-graph regularization (arXiv.org), Wenxiang Zuo, Qiang Li, Xianming Liu.
+
+   * DMR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8794839): Depth Maps Restoration for Human Using RealSense (IEEE Access), Jingfang Yin, Dengming Zhu, Min Shi, Zhaoqi Wang.
+
+   * ALNN[[PDF]](https://ieeexplore.ieee.org/abstract/document/8784833): A Lightweight Neural Network Based Human Depth Recovery Method (2019 IEEE International Conference on Multimedia and Expo (ICME)), Meiyu Huang, Xueshuang Xiang, Yao Xu, Yiqiang Chen.
 
    * PDUE[[PDF]](https://ieeexplore.ieee.org/document/8683638): Multiscale Directional Fusion for Depth Map Super Resolution with Denoising (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Dan Xu, Xiaopeng Fan, Shibo Zhang, Yang Wang, Debin Zhao, Wen Gao.
    
    * PDUE[[PDF]](http://ieeexplore.ieee.org/document/8418219/): Precise depth map upsampling and enhancement based on edge-preserving fusion filters (IET Computer Vision 2018), Ting-An Chang, Jar-Ferr Yang.
    
    * RDE[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8281287): Robust depth enhancement based on texture and depth consistency (IET Computer Vision 2018), Ting-An Chang, Wei-Chen Liao, Jar-Ferr Yang.
-
+   
+   * DMC[[PDF]](https://ieeexplore.ieee.org/abstract/document/8354259): Depth Map Completion by Jointly Exploiting Blurry Color Images and Sparse Depth Maps (2018 IEEE Winter Conference on Applications of Computer Vision (WACV)), Liyuan Pan, Yuchao Dai, Miaomiao Liu, Fatih Porikli.
+   
    * RGDR[[PDF]](https://ieeexplore.ieee.org/document/7574299)[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration): Robust Color Guided Depth Map Restoration (IEEE Trans. Image Process. 2017), Wei Liu, Xiaogang Chen, Jie Yang, Qiang Wu.
    
    * EDE[[PDF]](https://www.mdpi.com/1424-8220/17/7/1544/htm): Efficient Depth Enhancement Using a Combination of Color and Depth Information (Sensors 2017), Kyungja Lee, Yuseok Ban, Sangyoun Lee.
