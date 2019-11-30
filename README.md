@@ -1,7 +1,13 @@
-# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating)
+# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating every 1 to 3 months in 2020)
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
-**This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/). If your paper about [[this topic]](https://www.researchgate.net/project/Depth-Image-Quality-Enhancement?_sg=HmdjiODaWxK16knSMpg145NO57irmDyf9eT89AvdRvGQW0PF7183AyVlmtKWRSpiWeIuHNSZiG_aqkORdaCIlJI06BW-802edcCB) is not listed among them，please contact us（15112084@bjtu.edu.cn）. Maybe you are interested in [[Latest Image and Video Compression/Coding Resource]](https://github.com/mdcnn/Image-and-Video-Compression-Resource)**
+**This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/). If your paper about [[this topic]](https://www.researchgate.net/project/Depth-Image-Quality-Enhancement?_sg=HmdjiODaWxK16knSMpg145NO57irmDyf9eT89AvdRvGQW0PF7183AyVlmtKWRSpiWeIuHNSZiG_aqkORdaCIlJI06BW-802edcCB) is not listed among them，please contact us（15112084@bjtu.edu.cn）. 
+
+**Maybe you are interested in [[Latest Image and Video Compression/Coding Resource]](https://github.com/mdcnn/Image-and-Video-Compression-Resource)**
+
+# NOTICE: 
+
+**We now are writing a review paper about "depth quality enhancement". If you hope your published or arXiv paper to be cited in this paper, you can send us a email about your paper（Introduce your key idea）.**
    
 # The summary of some available codes or projects 
 
@@ -101,6 +107,14 @@ Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits an
    
 ##### Traditional Methods
 
+   * RADAR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8741062): RADAR: Robust Algorithm for Depth Image Super Resolution Based on FRI Theory and Multimodal Dictionary Learning (IEEE Transactions on Circuits and Systems for Video Technology 2019), Deng, Xin, Pingfan Song, Miguel RD Rodrigues, and Pier Luigi Dragotti.
+   
+   * P2PT[[PDF]]( Guided Super-Resolution as a Learned Pixel-to-Pixel Transformation):  Guided Super-Resolution as a Learned Pixel-to-Pixel Transformation (arXiv preprint arXiv:1904.015012019), de Lutio, R., D'Aronco, S., Wegner, J. D., & Schindler, K.
+   
+   * MDD-DSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8861360/): Multi-Direction Dictionary Learning Based Depth Map Super-Resolution with Autoregressive Modeling (IEEE Transactions on Multimedia 2019), Wang, J., Xu, W., Cai, J. F., Zhu, Q., Shi, Y., & Yin, B.
+
+   * MDF-DSR[[PDF]](http://150.162.46.34:8080/icassp2019/ICASSP2019/pdfs/0002342.pdf): Multiscale Directional Fusion for Depth Map Super Resolution with Denoising (IEEE International Conference on Acoustics, Speech and Signal Processing2019), Xu, D., Fan, X., Zhang, S., Wang, Y., Zhao, D., Gao, W.
+
    * JSC-DISR[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0167865518303222): Depth image super-resolution based on joint sparse coding (Pattern Recognition Letters), Beichen Li, Yuan Zhou, Yeda Zhang, Aihua Wang.
 
    * TSDR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8291613): Depth Super-Resolution From RGB-D Pairs With Transform and Spatial Domain Regularization (IEEE Transactions on Image Processing), Zhongyu Jiang, Yonghong Hou, Huanjing Yue, Jingyu Yang, Chunping Hou.
@@ -159,6 +173,10 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
    * HDMU[[PDF]](http://ieeexplore.ieee.org/document/6914600/): High-Quality Depth Map Upsampling and Completion for RGB-D Cameras (IEEE Trans. Image Process. 2014), Jaesik Park, Hyeongwoo Kim, Yu-Wing Tai, Michael S. Brown, In So Kweon.
       
 ## Depth Image Restoration/Enhancement
+
+   * CGR-LA[[PDF]](https://link.springer.com/chapter/10.1007/978-981-10-8971-8_13): Color-Guided Restoration and Local Adjustment of Multi-resolution Depth Map (In Smart Innovations in Communication and Computational Sciences 2019), Zhang, Xingrui, Qian Guo, Yudong Guan, Jianying Feng, Chunli Ti.
+
+   * DGR[[PDF]](https://arxiv.org/pdf/1907.02841v1.pdf): Depth Restoration: A fast low-rank matrix completion via dual-graph regularization (arXiv preprint arXiv:1907.02841 2019), Zuo, Wenxiang, Qiang Li, and Xianming Liu.
 
    * LD3D[[PDF]](https://ieeexplore.ieee.org/abstract/document/8327836): Depth Super-Resolution on RGB-D Video Sequences With Large Displacement 3D Motion (IEEE Transactions on Image Processing), Yucheng Wang, Jian Zhang, Zicheng Liu, Qiang Wu, Zhengyou Zhang, Yunde Jia.
 
