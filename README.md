@@ -91,6 +91,10 @@ Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits an
 
    * FDMSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8699247/references#references): Fast Depth Map Super-Resolution Using Deep Neural Network (2018 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)), Alisa Korinevskaya, Ilya Makarov.
    
+   * CSED[[PDF]](https://link.springer.xilesou.top/chapter/10.1007/978-3-319-73603-7_8): Co-occurrent Structural Edge Detection for Color-Guided Depth Map Super-Resolution (International Conference on Multimedia Modeling 2018), Jiang Zhu, Wei Zhai, Yang Cao, Zheng-Jun Zha.
+ 
+   * DFLLR[[PDF]](https://ieeexplore.ieee.org/document/8297047): Image guided depth enhancement via deep fusion and local linear regularizaron (IEEE International Conference on Image Processing 2017), Jiang Zhu, Jing Zhang, Yang Cao, Zengfu Wang.
+   
    * GDN[[PDF]](https://ieeexplore.ieee.org/abstract/document/7952398): Guided deep network for depth map super-resolution: How much can color help? (ICASSP 2017), Wentian Zhou, Xin Li, Daryl Reynolds.
 
    * FEAG[[PDF]](https://ieeexplore.ieee.org/abstract/document/8305055): Depth super-resolution via fully edge-augmented guidance (IEEE Visual Communications and Image Processing 2017), Jingyu Yang, Hao Lan, Xiaolin Song, Kun Li.
