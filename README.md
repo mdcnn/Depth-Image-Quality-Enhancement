@@ -2,13 +2,13 @@
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
 **This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/).**
-**If your paper about [[this topic]](https://www.researchgate.net/project/Depth-Image-Quality-Enhancement?_sg=HmdjiODaWxK16knSMpg145NO57irmDyf9eT89AvdRvGQW0PF7183AyVlmtKWRSpiWeIuHNSZiG_aqkORdaCIlJI06BW-802edcCB) is not listed among them，please contact us(leejun@tyust.edu.cn).**
+**If your paper about [[this topic]](https://www.researchgate.net/project/Depth-Image-Quality-Enhancement?_sg=HmdjiODaWxK16knSMpg145NO57irmDyf9eT89AvdRvGQW0PF7183AyVlmtKWRSpiWeIuHNSZiG_aqkORdaCIlJI06BW-802edcCB) is not listed among them，contact us(leejun@tyust.edu.cn).**
 
 **Maybe you are interested in [[Latest Image and Video Compression/Coding Resource]](https://github.com/mdcnn/Image-and-Video-Compression-Resource)**
 
 # NOTICE: 
 
-**We now are writing a review paper on "depth quality enhancement". If you hope your published or arXiv papers to be cited in this paper, you can send us (15112084@bjtu.edu.cn) an email about your paper.**
+**We now are writing a review paper on "depth quality enhancement". If you hope your published or arXiv papers to be cited in this paper, you can send us (leejun@tyust.edu.cn) an email about your paper.**
    
 # The summary of some available codes or projects 
 
