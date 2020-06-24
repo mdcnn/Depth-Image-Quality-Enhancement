@@ -69,6 +69,14 @@
 
 ##### CNN-based Methods
 
+   * CAIRL[[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Song_Channel_Attention_Based_Iterative_Residual_Learning_for_Depth_Map_Super-Resolution_CVPR_2020_paper.pdf): Channel Attention based Iterative Residual Learning for Depth Map Super-Resolution (In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020), Song, Xibin, Yuchao Dai, Dingfu Zhou, Liu Liu, Wei Li, Hongdong Li, and Ruigang Yang.
+
+   * DU-DEAL[[PDF]](https://arxiv.org/pdf/2004.09965.pdf): Depth upsampling based on deep edge-aware learning (Pattern Recognition), Wang, Zhihui, et al.
+
+   * WAJCSR[[PDF]](https://arxiv.org/pdf/2004.09965.pdf): Weakly Aligned Joint Cross-Modality Super Resolution (In Proceedings of the 2019 International Conference on Robotics Systems and Vehicle Technology), Shacht, Guy, et al.
+
+   * MSDRFN[[PDF]](https://arxiv.org/pdf/2004.04788.pdf):  Multi-Source Deep Residual Fusion Network for Depth Image Super-resolution (In Proceedings of the 2019 International Conference on Robotics Systems and Vehicle Technology), Hao, Xiaohui, et al.
+
    * RDN[[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025519303913): Residual dense network for intensity-guided depth map enhancement (Information Sciences 2019), Yifan Zuo, Qiang Wu, Yuming Fang, Yong Yang, Xiwu Shang, Bin Wang.
    
    * PDDSR[[PDF]](https://arxiv.org/abs/1812.09874): Perceptual deep depth super-resolution (arXiv), Oleg Voinov, Alexey Artemov, Vage Egiazarian, Alexander Notchenko, Gleb Bobrovskikh, Denis Zorin, Evgeny Burnaev.
@@ -111,6 +119,8 @@ Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits an
    * DPN[[PDF]](https://arxiv.org/abs/1607.08569)[[Code]](https://github.com/griegler/primal-dual-networks): A Deep Primal-Dual Network for Guided Depth Super-Resolution (BMVC 2016), Gernot Riegler, David Ferstl, Matthias Rüther, Horst Bischof.
    
 ##### Traditional Methods
+
+   * CRDA[[PDF]](https://eprints.gla.ac.uk/214086/1/214086.pdf): Coupled Real-Synthetic Domain Adaptation for Real-World Deep Depth Enhancement (IEEE Transactions on Image Processing2020), Gu, Xiao, et al.
 
    * RADAR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8741062): RADAR: Robust Algorithm for Depth Image Super Resolution Based on FRI Theory and Multimodal Dictionary Learning (IEEE Transactions on Circuits and Systems for Video Technology 2019), Deng, Xin, Pingfan Song, Miguel RD Rodrigues, and Pier Luigi Dragotti.
    
@@ -169,6 +179,14 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
    
 ## Depth Image Inpainting/Completion
 
+   * DC-AIR[[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_From_Depth_What_Can_You_See_Depth_Completion_via_Auxiliary_CVPR_2020_paper.pdf): From Depth What Can You See? Depth Completion via Auxiliary Image Reconstruction(In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020), Lu, Kaiyue, Nick Barnes, Saeed Anwar, and Liang Zheng.
+
+   * JG-DRNE[[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Rossi_Joint_Graph-Based_Depth_Refinement_and_Normal_Estimation_CVPR_2020_paper.pdf): Joint graph-based depth refinement and normal estimation(In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020), Rossi, Mattia, Mireille El Gheche, Andreas Kuhn, and Pascal Frossard. 
+
+   * UACNN[[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Eldesokey_Uncertainty-Aware_CNNs_for_Depth_Completion_Uncertainty_from_Beginning_to_End_CVPR_2020_paper.pdf): Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End (In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020), Eldesokey, Abdelrahman, Michael Felsberg, Karl Holmquist, and Michael Persson.
+
+   * DCCS[[PDF]](https://arxiv.org/pdf/1803.08949.pdf): Deep convolutional compressed sensing for lidar depth completion (ACCV 2018), Chodosh, Nathaniel, Chaoyang Wang, and Simon Lucey. 
+
    * HQ3DR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8628990): High-Quality 3D Reconstruction With Depth Super-Resolution and Completion (IEEE Access 2019), Jianwei Li, Wei Gao, Yihong Wu.
 
    * IDC[[PDF]](https://arxiv.org/abs/1908.08344): Indoor Depth Completion with Boundary Consistency and Self-Attention (ICCV 2019), Yu-Kai Huang, Tsung-Han Wu, Yueh-Cheng Liu, Winston H. Hsu.
@@ -178,6 +196,8 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
    * HDMU[[PDF]](http://ieeexplore.ieee.org/document/6914600/): High-Quality Depth Map Upsampling and Completion for RGB-D Cameras (IEEE Trans. Image Process. 2014), Jaesik Park, Hyeongwoo Kim, Yu-Wing Tai, Michael S. Brown, In So Kweon.
       
 ## Depth Image Restoration/Enhancement
+
+   * AMRN[[PDF]](https://ieeexplore.ieee.org/iel7/6287639/8948470/09097886.pdf): Adaptive Multi-Modality Residual Network for Compression Distorted Multi-View Depth Video Enhancement (IEEE Access 2020), Chen, Siqi, Qiong Liu, and You Yang
 
    * CGR-LA[[PDF]](https://link.springer.com/chapter/10.1007/978-981-10-8971-8_13): Color-Guided Restoration and Local Adjustment of Multi-resolution Depth Map (In Smart Innovations in Communication and Computational Sciences 2019), Zhang, Xingrui, Qian Guo, Yudong Guan, Jianying Feng, Chunli Ti.
 
@@ -255,8 +275,9 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
 
    * CNNC[[PDF]](https://ieeexplore.ieee.org/abstract/document/8305150): A CNN cascade for quality enhancement of compressed depth images  (IEEE Visual Communications and Image Processing 2017), Zhi Jin, Lei Luo, Yi Tang, Wenbin Zou, Xia Li.
 
+## 3D Reconstruction(with depth information)
 
-
+   * RoutedFusion[[PDF]](https://ieeexplore.ieee.org/abstract/document/8305150): RoutedFusion: Learning Real-time Depth Map Fusion  (In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020), Weder, Silvan, Johannes Schonberger, Marc Pollefeys, and Martin R. Oswald.
 
 
 
