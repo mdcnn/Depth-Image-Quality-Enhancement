@@ -1,4 +1,4 @@
-# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Update the following summary every 1-3 months in 2020)
+# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Update the following summary every 3-6 months in 2021)
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
 **This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/).**
