@@ -65,6 +65,22 @@
 
 ##### CNN-based Methods
 
+   * DAEANet[[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231221006548): DAEANet: Dual auto-encoder attention network for depth map super-resolution (Neurocomputing 2021), Cao, Xiang, Yihao Luo, Xianyi Zhu, Liangqi Zhang, Yan Xu, Haibo Shen, Tianjiang Wang, and Qi Feng.
+
+   * JIF-DSR[[PDF]](https://arxiv.org/pdf/2107.08717): Joint Implicit Image Function for Guided Depth Super-Resolution (arXiv preprint arXiv:2107.08717 2021), Tang, Jiaxiang, Xiaokang Chen, and Gang Zeng.
+   
+   * SCTN[[PDF]](https://arxiv.org/pdf/2104.06977.pdf): Discrete Cosine Transform Network for Guided Depth Map Super-Resolution (arXiv preprint arXiv:2104.06977 2021), Zhao, Zixiang, Jiangshe Zhang, Shuang Xu, Chunxia Zhang, and Junmin Liu.
+
+   * TDT-DSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/9428393/): Depth Super-Resolution by Texture-Depth Transformer (In 2021 IEEE International Conference on Multimedia and Expo (ICME), 2021), Yao, Chao, Shuaiyong Zhang, Mengyao Yang, Meiqin Liu, and Junpeng Qi
+
+   * CTKT[[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Learning_Scene_Structure_Guidance_via_Cross-Task_Knowledge_Transfer_for_Single_CVPR_2021_paper.pdf): Learning Scene Structure Guidance via Cross-Task Knowledge Transfer for Single Depth Super-Resolution (In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021), Sun, Baoli, Xinchen Ye, Baopu Li, Haojie Li, Zhihui Wang, and Rui Xu.
+
+   * FAR-DSR[[PDF]](http://openaccess.thecvf.com/content/CVPR2021/html/He_Towards_Fast_and_Accurate_Real-World_Depth_Super-Resolution_Benchmark_Dataset_and_CVPR_2021_paper.html): Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline (In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021), He, Lingzhi, Hongguang Zhu, Feng Li, Huihui Bai, Runmin Cong, Chunjie Zhang, Chunyu Lin, Meiqin Liu, and Yao Zhao.
+
+   * SCSN[[PDF]](http://faculty.dlut.edu.cn/_resources/group1/M00/00/60/ynZMg2BRVyKAOxRUACXR582FLVA369.pdf): Depth Super-Resolution via Deep Controllable Slicing Network (In Proceedings of the 28th ACM International Conference on Multimedia 2020), Ye, Xinchen, Baoli Sun, Zhihui Wang, Jingyu Yang, Rui Xu, Haojie Li, and Baopu Li.
+   
+   * PMBAnet[[PDF]](http://faculty.dlut.edu.cn/_resources/group1/M00/00/60/ynZMhGBQviSAUEEoAFV7yJDkjJU362.pdf): PMBAnet: Progressive multi-branch aggregation network for scene depth super-resolution (IEEE Transactions on Image Processing2020), Ye, Xinchen, Baoli Sun, Zhihui Wang, Jingyu Yang, Rui Xu, Haojie Li, and Baopu Li.
+
    * CAIRL[[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Song_Channel_Attention_Based_Iterative_Residual_Learning_for_Depth_Map_Super-Resolution_CVPR_2020_paper.pdf): Channel Attention based Iterative Residual Learning for Depth Map Super-Resolution (In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020), Song, Xibin, Yuchao Dai, Dingfu Zhou, Liu Liu, Wei Li, Hongdong Li, and Ruigang Yang.
 
    * DU-DEAL[[PDF]](https://arxiv.org/pdf/2004.09965.pdf): Depth upsampling based on deep edge-aware learning (Pattern Recognition), Wang, Zhihui, et al.
