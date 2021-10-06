@@ -1,4 +1,4 @@
-# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Update the following summary every 3-6 months in 2021)
+# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating 2021)
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
 **This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/).**
@@ -64,6 +64,8 @@
 ## Depth Image Super-Resolution
 
 ##### CNN-based Methods
+
+   * DID-DSR[[PDF]](https://www.springer.com): From Deep Image Decomposition to Single Depth Image Super-Resolution (Image and Graphics Technologies and Applications 2021), Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, and Yao Zhao.
 
    * DAEANet[[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231221006548): DAEANet: Dual auto-encoder attention network for depth map super-resolution (Neurocomputing 2021), Cao, Xiang, Yihao Luo, Xianyi Zhu, Liangqi Zhang, Yan Xu, Haibo Shen, Tianjiang Wang, and Qi Feng.
 
