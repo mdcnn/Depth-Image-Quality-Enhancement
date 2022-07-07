@@ -65,7 +65,7 @@
 
 ##### CNN-based Methods
 
-   * LGR-GSR[[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/de_Lutio_Learning_Graph_Regularisation_for_Guided_Super-Resolution_CVPR_2022_paper.pdf: Learning Graph Regularisation for Guided Super-Resolution (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022), de Lutio, Riccardo, Alexander Becker, Stefano D'Aronco, Stefania Russo, Jan D. Wegner, and Konrad Schindler.
+   * LGR-GSR[[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/de_Lutio_Learning_Graph_Regularisation_for_Guided_Super-Resolution_CVPR_2022_paper.pdf): Learning Graph Regularisation for Guided Super-Resolution (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022), de Lutio, Riccardo, Alexander Becker, Stefano D'Aronco, Stefania Russo, Jan D. Wegner, and Konrad Schindler.
 
    * DCTN-GSR[[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Discrete_Cosine_Transform_Network_for_Guided_Depth_Map_Super-Resolution_CVPR_2022_paper.pdf): Discrete cosine transform network for guided depth map super-resolution (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022), Zhao, Zixiang, Jiangshe Zhang, Shuang Xu, Zudi Lin, and Hanspeter Pfister.
 
