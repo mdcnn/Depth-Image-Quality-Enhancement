@@ -1,4 +1,4 @@
-# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating 2021)
+# STATE-OF-THE-ART QUALITY ENHANCEMENT APPROACHES FOR DEPTH IMAGES (Updating 2022.7)
 
 **A list of depth quality enhancement approaches and the summary of some available codes or projects.**
 **This list is maintained by: [[Lijun Zhao]](https://mdcnn.github.io/).**
@@ -64,6 +64,16 @@
 ## Depth Image Super-Resolution
 
 ##### CNN-based Methods
+
+   * LGR-GSR[[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/de_Lutio_Learning_Graph_Regularisation_for_Guided_Super-Resolution_CVPR_2022_paper.pdf: Learning Graph Regularisation for Guided Super-Resolution (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022), de Lutio, Riccardo, Alexander Becker, Stefano D'Aronco, Stefania Russo, Jan D. Wegner, and Konrad Schindler.
+
+   * DCTN-GSR[[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Discrete_Cosine_Transform_Network_for_Guided_Depth_Map_Super-Resolution_CVPR_2022_paper.pdf): Discrete cosine transform network for guided depth map super-resolution (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022), Zhao, Zixiang, Jiangshe Zhang, Shuang Xu, Zudi Lin, and Hanspeter Pfister.
+
+   * CODON[[PDF]](https://link.springer.com/article/10.1007/s11263-021-01545-w): CODON: On Orchestrating Cross-Domain Attentions for Depth Super-Resolution (International Journal of Computer Vision 2022), Yuxiang Yang, Qi Cao, Jing Zhang, and Dacheng Tao 
+   
+   * DSR-SPGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231221006548): Depth Map Super Resolution Using Structure-Preserving Guided Filtering (IEEE Sensors Journal 2022), Khoddami, Ali Asghar, Payman Moallem, and Mohammad Kazemi
+
+   * PDR-Net[[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231222000686?casa_token=OzJssJxUIaYAAAAA:_09I8KtKaGuixwuS3C341GH12I8iTo1fbt1NXO7_ukHDgI_aKSb_iUNDYygpOYEN4GDK75MNgKjK): PDR-Net: Progressive depth reconstruction network for color guided depth map super-resolution (Neurocomputing 2022), Peng Liu, Zonghua Zhang, Zhaozong Meng, Nan Gao, and Chao Wang.
 
    * DID-DSR[[PDF]](https://www.springer.com): From Deep Image Decomposition to Single Depth Image Super-Resolution (Image and Graphics Technologies and Applications 2021), Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, and Yao Zhao.
 
