@@ -73,7 +73,7 @@
    
    * DSR-SPGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231221006548): Depth Map Super Resolution Using Structure-Preserving Guided Filtering (IEEE Sensors Journal 2022), Khoddami, Ali Asghar, Payman Moallem, and Mohammad Kazemi
 
-   * PDR-Net[[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231222000686?casa_token=OzJssJxUIaYAAAAA:_09I8KtKaGuixwuS3C341GH12I8iTo1fbt1NXO7_ukHDgI_aKSb_iUNDYygpOYEN4GDK75MNgKjK): PDR-Net: Progressive depth reconstruction network for color guided depth map super-resolution (Neurocomputing 2022), Peng Liu, Zonghua Zhang, Zhaozong Meng, Nan Gao, and Chao Wang.
+   * PDR-Net[[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231222000686): PDR-Net: Progressive depth reconstruction network for color guided depth map super-resolution (Neurocomputing 2022), Peng Liu, Zonghua Zhang, Zhaozong Meng, Nan Gao, and Chao Wang.
 
    * DID-DSR[[PDF]](https://www.springer.com): From Deep Image Decomposition to Single Depth Image Super-Resolution (Image and Graphics Technologies and Applications 2021), Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, and Yao Zhao.
 
