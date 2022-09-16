@@ -30,7 +30,7 @@
 
   * Robust Color Guided Depth Map Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
 
-  * Color-guided Depth Recovery from RGB-D Data Using an Adaptive Auto-regressive Model[[Code]](https://github.com/wliusjtu/Color-guided-Depth-Recovery-from-RGB-D-Data-Using-an-Adaptive-Auto-regressive-Model)
+  * Color-Guided Depth Recovery from RGB-D Data Using an Adaptive Auto-Regressive Model[[Code]](https://github.com/wliusjtu/Color-guided-Depth-Recovery-from-RGB-D-Data-Using-an-Adaptive-Auto-regressive-Model)
    
   * Depth Map Super-Resolution by Deep Multi-Scale Guidance [[Project]](http://mmlab.ie.cuhk.edu.hk/projects/guidance_SR_depth.html) 
 [[Code]](https://github.com/twhui/MSG-Net)
@@ -48,24 +48,26 @@
    
    * A Deep Primal-Dual Network for Guided Depth Super-Resolution [[Code]](https://github.com/griegler/primal-dual-networks)
    
-   * Patch based synthesis for single depth image super-resolution[[Project]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/) 
+   * Patch Based Synthesis For Single Depth Image Super-Resolution[[Project]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/) 
 [[Code]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/depthSuperRes_code.zip)
 
-   * Simultaneous color-depth super-resolution with conditional generative adversarial networks[[Project]](https://github.com/mdcnn/CDcGAN) (including results for HR-color-image-guided depth 4X super-resolution)
+   * Simultaneous Color-Depth Super-Resolution with Conditional Generative Adversarial Networks[[Project]](https://github.com/mdcnn/CDcGAN) (including results for HR-color-image-guided depth 4X super-resolution)
 
    * Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing [[Project]](https://github.com/mdcnn/Local-Activity-Driven-Filtering) [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
    
-   * Iterative range-domain weighted filter for structural preserving image smoothing and de-noising [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   * Iterative Range-Domain Weighted Filter for Structural Preserving Image Smoothing and De-Noising [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
    
-   * Two-stage filtering of compressed depth images with Markov Random Field [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   * Two-Stage Filtering of Compressed Depth Images with Markov Random Field [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
    
-   * Candidate value-based boundary filtering for compressed depth images [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
+   * Candidate Value-Based Boundary Filtering for Compressed Depth Images [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
    
-# A list of depth quality enhancement approaches
+# A List of Depth Quality Enhancement Approaches
    
 ## Depth Image Super-Resolution
 
 ##### Interpretable/Explainable Methods(2022)
+* ...[[PDF]](...): Super-Resolution (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022), ...
+
 
 ##### CNN-based Methods
 
