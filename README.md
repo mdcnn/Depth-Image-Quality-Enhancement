@@ -61,6 +61,9 @@
    
    * Candidate Value-Based Boundary Filtering for Compressed Depth Images [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
    
+# Review papers
+   * DHGF[[PDF]](https://www.sciencedirect.com/): A Review of Depth Map Super-Resolution Reconstruction Research: The Latest Methods, Applications and Challenges (Application Research of Computers 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang.
+   
 # A List of Depth Quality Enhancement Approaches
    
 ## Depth Image Super-Resolution
@@ -70,6 +73,10 @@
 
 
 ##### CNN-based Methods
+   
+   * SDMD[[PDF]](http://jdxb.bjtu.edu.cn/CN/volumn/home.shtml): Single Depth Map Denoising Method by Combining High- and Low-Frequency Decomposition and Multi-Scale Two-Level Fusion Strategy (JOURNAL OF BEIJING JIAOTONG UNIVERSITY 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao.
+
+   * DHGF[[PDF]](https://www.sciencedirect.com/): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
 
    * LGR-GSR[[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/de_Lutio_Learning_Graph_Regularisation_for_Guided_Super-Resolution_CVPR_2022_paper.pdf): Learning Graph Regularisation for Guided Super-Resolution (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022), de Lutio, Riccardo, Alexander Becker, Stefano D'Aronco, Stefania Russo, Jan D. Wegner, and Konrad Schindler.
 
