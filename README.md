@@ -102,10 +102,12 @@
    * Kinect-Datasets2017[[PDF]](https://link.springer.com/article/10.1007/S11042-016-3374-6): RGB-D datasets using microsoft kinect or similar sensors: a survey (Multimedia Tools and Applications 2017), Cai Z, Han J, Liu L, Shao L.
    
    * NYU-v2 RGB-D Datasets2012[[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-33715-4_54.pdf): Indoor segmentation and support inference from rgbd images (European conference on computer vision 2012), Silberman, Nathan, Derek Hoiem, Pushmeet Kohli, and Rob Fergus.
+
+   * Middlebury RGB-D Datasets2007[[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf): Evaluation of cost functions for stereo matching (IEEE Conference on Computer Vision and Pattern Recognition 2007), Hirschmuller, Heiko, and Daniel Scharstein.
    
    * Middlebury RGB-D Datasets2002[[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf): A taxonomy and evaluation of dense two-frame stereo correspondence algorithms (International Journal of Computer Vision 2002), Scharstein, Daniel, and Richard Szeliski.
    
-   * Middlebury RGB-D Datasets2007[[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf): Evaluation of cost functions for stereo matching (IEEE Conference on Computer Vision and Pattern Recognition 2007), Hirschmuller, Heiko, and Daniel Scharstein.
+
    
    
    
