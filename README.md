@@ -78,7 +78,7 @@
    
    
    
-##### Review papers about depth map
+##### Review papers about depth map completion/depth estimation
    * 3DRecon2022[[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-08819-3_17): 3D reconstruction based on the depth image: A review (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing 2022), Mi Q, Gao T.
 
    * Deep-Depth-Completion2022[[PDF]](https://www.mdpi.com/1424-8220/22/14/5353/pdf): Deep Depth Completion: A Survey ( arXiv preprint 2022),Hu J, Bao C, Ozay M, Fan C, Gao Q, Liu H, Lam TL.
