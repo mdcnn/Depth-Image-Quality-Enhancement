@@ -61,22 +61,66 @@
    
    * Candidate Value-Based Boundary Filtering for Compressed Depth Images [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
    
-# Review papers
-   * DHGF[[PDF]](https://www.sciencedirect.com/): A Review of Depth Map Super-Resolution Reconstruction Research: The Latest Methods, Applications and Challenges (Application Research of Computers 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang.
    
-# A List of Depth Quality Enhancement Approaches
+## Review papers
+   
+##### Review papers for depth map enhancement
+
+   * DHGF2023[[PDF]](https://www.arocmag.com/): A Review of Depth Map Super-Resolution Reconstruction Research: The Latest Methods, Applications and Challenges (Application Research of Computers 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang.
+   
+   * DMAR2020[[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-ipr.2019.1622): Depth map artefacts reduction: A review (IET Image Processing 2020),  Ibrahim MM, Liu Q, Khan R, Yang J, Adeli E, Yang Y.
+   
+   * DSR-CG2019[[PDF]](RGB-D Image Analysis and Processing. 2019): Depth super-resolution with color guidance: a review(RGB-D Image Analysis and Processing 2019), Yang J, Jiang Z, Ye X, Li K.
+
+   * ToF-Depth-Survey2017[[PDF]](https://eprints.sztaki.hu/9116/1/Eichhardt_267_3224908_ny.pdf): Image-guided ToF depth upsampling: a survey (Machine Vision and Applications 2017),  Eichhardt I, Chetverikov D, Janko Z.
+   
+   * Kinect-Depth-Review2014[[PDF]](https://tanwimallick.github.io/papers/kinect_noise_sensor.pdf): Characterizations of noise in Kinect depth images: A review (IEEE Sensors Journal 2014), Mallick T, Das PP, Majumdar AK.
+   
+   
+   
+##### Review papers about depth map
+   * 3DRecon2022[[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-08819-3_17): 3D reconstruction based on the depth image: A review (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing 2022), Mi Q, Gao T.
+
+   * Deep-Depth-Completion2022[[PDF]](https://www.mdpi.com/1424-8220/22/14/5353/pdf): Deep Depth Completion: A Survey ( arXiv preprint 2022),Hu J, Bao C, Ozay M, Fan C, Gao Q, Liu H, Lam TL.
+   
+   * Single-Depth-estimation2022[[PDF]](https://arxiv.org/pdf/2104.06456): Single image depth estimation: An overview (Digital Signal Processing 2022), Mertan A, Duff DJ, Unal G.
+
+   * Mono-Depth-Estimation2022[[PDF]](https://www.mdpi.com/1424-8220/22/14/5353/pdf): Monocular depth estimation using deep learning: A review (Sensors 2022), Masoumian A, Rashwan HA, Cristiano J, Asif MS, Puig D.
+
+   * Depth-Completion2018[[PDF]](https://pure.port.ac.uk/ws/portalfiles/portal/26286067/Deep_Learning_for_Monocular_Depth_Estimation_A_Review_pp.pdf): Deep depth completion of a single rgb-d image (IEEE Conference on Computer Vision and Pattern Recognition 2018), Zhang Y, Funkhouser T.
+
+
+
+## RGB-D Dataset papers
+
+   * RGB-D Datasets2022[[PDF]](https://arxiv.org/pdf/2201.05761): A Survey on RGB-D Datasets (arXiv preprint 2022), Lopes, Alexandre, Roberto Souza, and Helio Pedrini.
+ 
+   * RGB-ToF-Datasets2022[[PDF]](https://arxiv.org/pdf/2209.07057.pdf): MIPI 2022 challenge on RGB+ ToF depth completion: dataset and report (arXiv preprint 2022), Sun W, Zhu Q, Li C, Feng R, Zhou S, Jiang J, Yang Q, Loy CC, Gu J.
+
+   * RGB-D-D2021[[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Towards_Fast_and_Accurate_Real-World_Depth_Super-Resolution_Benchmark_Dataset_and_CVPR_2021_paper.pdf): Towards fast and accurate real-world depth super-resolution: Benchmark dataset and baseline (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021), He, Lingzhi, Hongguang Zhu, Feng Li, Huihui Bai, Runmin Cong, Chunjie Zhang, Chunyu Lin, Meiqin Liu, and Yao Zhao.
+
+   * Kinect-Datasets2017[[PDF]](https://link.springer.com/article/10.1007/S11042-016-3374-6): RGB-D datasets using microsoft kinect or similar sensors: a survey (Multimedia Tools and Applications 2017), Cai Z, Han J, Liu L, Shao L.
+   
+   * NYU-v2 RGB-D Datasets2012[[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-33715-4_54.pdf): Indoor segmentation and support inference from rgbd images (European conference on computer vision 2012), Silberman, Nathan, Derek Hoiem, Pushmeet Kohli, and Rob Fergus.
+   
+   * Middlebury RGB-D Datasets2002[[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf): A taxonomy and evaluation of dense two-frame stereo correspondence algorithms (International Journal of Computer Vision 2002), Scharstein, Daniel, and Richard Szeliski.
+   
+   * Middlebury RGB-D Datasets2007[[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf): Evaluation of cost functions for stereo matching (IEEE Conference on Computer Vision and Pattern Recognition 2007), Hirschmuller, Heiko, and Daniel Scharstein.
+   
+   
+   
+# A list of depth quality enhancement approaches
    
 ## Depth Image Super-Resolution
 
-##### Interpretable/Explainable Methods(2022)
-* ...[[PDF]](...): Super-Resolution (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022), ...
+##### Interpretable/Explainable Unfolding Network Methods
 
 
 ##### CNN-based Methods
+
+   * DHGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322007397): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
    
    * SDMD[[PDF]](http://jdxb.bjtu.edu.cn/CN/volumn/home.shtml): Single Depth Map Denoising Method by Combining High- and Low-Frequency Decomposition and Multi-Scale Two-Level Fusion Strategy (JOURNAL OF BEIJING JIAOTONG UNIVERSITY 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao.
-
-   * DHGF[[PDF]](https://www.sciencedirect.com/): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
 
    * LGR-GSR[[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/de_Lutio_Learning_Graph_Regularisation_for_Guided_Super-Resolution_CVPR_2022_paper.pdf): Learning Graph Regularisation for Guided Super-Resolution (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022), de Lutio, Riccardo, Alexander Becker, Stefano D'Aronco, Stefania Russo, Jan D. Wegner, and Konrad Schindler.
 
