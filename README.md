@@ -70,7 +70,7 @@
    
    * DMAR2020[[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-ipr.2019.1622): Depth map artefacts reduction: A review (IET Image Processing 2020),  Ibrahim MM, Liu Q, Khan R, Yang J, Adeli E, Yang Y.
    
-   * DSR-CG2019[[PDF]](RGB-D Image Analysis and Processing. 2019): Depth super-resolution with color guidance: a review(RGB-D Image Analysis and Processing 2019), Yang J, Jiang Z, Ye X, Li K.
+   * DSR-CG2019[[PDF]](https://www.springerprofessional.de/depth-super-resolution-with-color-guidance-a-review/17314182): Depth super-resolution with color guidance: a review(RGB-D Image Analysis and Processing 2019), Yang J, Jiang Z, Ye X, Li K.
 
    * ToF-Depth-Survey2017[[PDF]](https://eprints.sztaki.hu/9116/1/Eichhardt_267_3224908_ny.pdf): Image-guided ToF depth upsampling: a survey (Machine Vision and Applications 2017),  Eichhardt I, Chetverikov D, Janko Z.
    
@@ -79,6 +79,7 @@
    
    
 ##### Review papers about depth map completion/depth estimation
+
    * 3DRecon2022[[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-08819-3_17): 3D reconstruction based on the depth image: A review (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing 2022), Mi Q, Gao T.
 
    * Deep-Depth-Completion2022[[PDF]](https://www.mdpi.com/1424-8220/22/14/5353/pdf): Deep Depth Completion: A Survey ( arXiv preprint 2022),Hu J, Bao C, Ozay M, Fan C, Gao Q, Liu H, Lam TL.
