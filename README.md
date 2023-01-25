@@ -51,7 +51,7 @@
    * Patch Based Synthesis For Single Depth Image Super-Resolution[[Project]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/) 
 [[Code]](http://visual.cs.ucl.ac.uk/pubs/depthSuperRes/depthSuperRes_code.zip)
 
-   * Simultaneous Color-Depth Super-Resolution with Conditional Generative Adversarial Networks[[Project]](https://github.com/mdcnn/CDcGAN) (including results for HR-color-image-guided depth 4X super-resolution)
+   * Simultaneous Color-Depth Super-Resolution with Conditional Generative Adversarial Networks[[Project]](https://github.com/mdcnn/CDcGAN)
 
    * Local Activity-Driven Structural-Preserving Filtering for Noise Removal and Image Smoothing [[Project]](https://github.com/mdcnn/Local-Activity-Driven-Filtering) [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
    
