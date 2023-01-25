@@ -66,7 +66,7 @@
    
 ##### Review Papers for Depth Map Enhancement
 
-   * DHGF2023[[PDF]](https://www.arocmag.com/): A Review of Depth Map Super-Resolution Reconstruction Research: The Latest Methods, Applications and Challenges (Application Research of Computers 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang.
+   * DHGF2023[[PDF]](https://www.arocmag.com/article/02-2023-06-003.html): A Review of Depth Map Super-Resolution Reconstruction Research: The Latest Methods, Applications and Challenges (Application Research of Computers 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang.
    
    * DMAR2020[[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-ipr.2019.1622): Depth map artefacts reduction: A review (IET Image Processing 2020),  Ibrahim MM, Liu Q, Khan R, Yang J, Adeli E, Yang Y.
    
