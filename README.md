@@ -6,7 +6,7 @@
 
 **Maybe you are interested in [[Latest Image and Video Compression/Coding Resource]](https://github.com/mdcnn/Image-and-Video-Compression-Resource)**
    
-# The Summary Of Some Available Codes/Projects 
+# The Summary of Some Available Codes/Projects 
 
    * Depth-Enhancement-Toolbox(Thanks to Junyi Liu(Email:shshzaa@zju.edu.cn))[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/depth-enhancement_toolbox)
    
@@ -78,7 +78,7 @@
    
    
    
-##### Review Papers About Depth Map Completion/Depth Estimation
+##### Review Papers about Depth Map Completion/Depth Estimation
 
    * 3DRecon2022[[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-08819-3_17): 3D reconstruction based on the depth image: A review (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing 2022), Mi Q, Gao T.
 
@@ -112,7 +112,7 @@
    
    
    
-# A List Of Depth Quality Enhancement Approaches
+# A List of Depth Quality Enhancement Approaches
    
 ## Depth Image Super-Resolution
 
