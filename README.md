@@ -10,7 +10,7 @@
 
    * Depth-Enhancement-Toolbox(Thanks to Junyi Liu(Email:shshzaa@zju.edu.cn))[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/depth-enhancement_toolbox)
    
-   * A Series Codes For Depth Image Enhancement(Thanks to Yifan Zuo(Email:kenny0410@126.com))[[Code]](https://github.com/Yifan-Zuo)
+   * A Series of Depth Image Enhancement Codes (Thanks to Yifan Zuo(Email:kenny0410@126.com))[[Code]](https://github.com/Yifan-Zuo)
       
    * Joint Bilateral Filter[[PDF]](http://vis.berkeley.edu/papers/fnf/fnfSmall.pdf) Digital photography with flash and no-flash image pairs
    
