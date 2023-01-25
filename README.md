@@ -6,7 +6,7 @@
 
 **Maybe you are interested in [[Latest Image and Video Compression/Coding Resource]](https://github.com/mdcnn/Image-and-Video-Compression-Resource)**
    
-# The summary of some available codes or projects 
+# The Summary Of Some Available Codes/Projects 
 
    * Depth-Enhancement-Toolbox(Thanks to Junyi Liu(Email:shshzaa@zju.edu.cn))[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/depth-enhancement_toolbox)
    
@@ -62,9 +62,9 @@
    * Candidate Value-Based Boundary Filtering for Compressed Depth Images [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
    
    
-## Review papers
+## Review Papers
    
-##### Review papers for depth map enhancement
+##### Review Papers for Depth Map Enhancement
 
    * DHGF2023[[PDF]](https://www.arocmag.com/): A Review of Depth Map Super-Resolution Reconstruction Research: The Latest Methods, Applications and Challenges (Application Research of Computers 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang.
    
@@ -78,7 +78,7 @@
    
    
    
-##### Review papers about depth map completion/depth estimation
+##### Review Papers About Depth Map Completion/Depth Estimation
 
    * 3DRecon2022[[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-08819-3_17): 3D reconstruction based on the depth image: A review (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing 2022), Mi Q, Gao T.
 
@@ -92,7 +92,7 @@
 
 
 
-## RGB-D Dataset papers
+## RGB-D Dataset Papers
 
    * RGB-D Datasets2022[[PDF]](https://arxiv.org/pdf/2201.05761): A Survey on RGB-D Datasets (arXiv preprint 2022), Lopes, Alexandre, Roberto Souza, and Helio Pedrini.
  
@@ -112,14 +112,14 @@
    
    
    
-# A list of depth quality enhancement approaches
+# A List Of Depth Quality Enhancement Approaches
    
 ## Depth Image Super-Resolution
 
 ##### Interpretable/Explainable Unfolding Network Methods
 
 
-##### CNN-based Methods
+##### CNN-Based Methods
 
    * DHGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322007397): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
    
@@ -351,7 +351,7 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
 
    * JTF[[PDF]](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=752086): Joint trilateral filtering for depth map compression (Proc. SPIE 2010), Shujie Liu, PoLin Lai, Dong Tian.
    
-##### CNN-based Methods
+##### CNN-Based Methods
 
    * IFQE[[PDF]](https://ieeexplore.ieee.org/document/8553082): Information Fusion based Quality Enhancement for 3D Stereo Images Using CNN (EUSIPCO) 2018), Zhi Jin, Haili Luo, Lei Luo, Wenbin Zou, Xia Lil, Eckehard Steinbach.
 
