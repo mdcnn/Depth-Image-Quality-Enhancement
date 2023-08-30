@@ -11,6 +11,8 @@
    * Depth-Enhancement-Toolbox(Thanks to Junyi Liu(Email:shshzaa@zju.edu.cn))[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/depth-enhancement_toolbox)
    
    * A Series of Depth Image Enhancement Codes (Thanks to Yifan Zuo(Email:kenny0410@126.com))[[Code]](https://github.com/Yifan-Zuo)
+
+   * Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter[[Code]]([https://github.com/Yifan-Zuo](https://github.com/mdcnn/JGF2022/tree/main))
       
    * Joint Bilateral Filter[[PDF]](http://vis.berkeley.edu/papers/fnf/fnfSmall.pdf) Digital photography with flash and no-flash image pairs
    
@@ -117,11 +119,15 @@
 ## Depth Image Super-Resolution
 
 ##### Interpretable/Explainable Unfolding Network Methods
-
-
+  * Ex-DSRNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Explainable Unfolding Network For Joint Edge-Preserving Depth Map Super-Resolution (IEEE International Conference on Multimedia and Expo (ICME) 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Ke Wang, Anhong Wang.
+    
+  * MMNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Memory-augmented deep unfolding network for guided image super-resolution (International Journal of Computer Vision 2023), Man Zhou and Keyu Yan and Jinshan Pan and Wenqi Ren and Qi Xie and Xiangyong Cao.
+    
+  * LMCSC-ResNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Multimodal deep unfolding for guided image super-resolution (IEEE Transactions on Image Processing 2020), Iman Marivani and Evaggelia Tsiligianni and Bruno Cornelis and Nikos Deligiannis.
+    
 ##### CNN-Based Methods
 
-   * DHGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322007397): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
+   * JGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322007397)[[Code]]([https://github.com/Yifan-Zuo](https://github.com/mdcnn/JGF2022/tree/main)): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
    
    * SDMD[[PDF]](http://jdxb.bjtu.edu.cn/CN/volumn/home.shtml): Single Depth Map Denoising Method by Combining High- and Low-Frequency Decomposition and Multi-Scale Two-Level Fusion Strategy (JOURNAL OF BEIJING JIAOTONG UNIVERSITY 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao.
 
