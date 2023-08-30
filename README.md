@@ -118,7 +118,7 @@
    
 ## Depth Image Super-Resolution
 
-##### Interpretable/Explainable Unfolding Network Methods
+##### Interpretable/Explainable/Explicable Unfolding Network Methods
   * Ex-DSRNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Explainable Unfolding Network For Joint Edge-Preserving Depth Map Super-Resolution (IEEE International Conference on Multimedia and Expo (ICME) 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Ke Wang, Anhong Wang.
     
   * MMNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Memory-augmented deep unfolding network for guided image super-resolution (International Journal of Computer Vision 2023), Man Zhou and Keyu Yan and Jinshan Pan and Wenqi Ren and Qi Xie and Xiangyong Cao.
