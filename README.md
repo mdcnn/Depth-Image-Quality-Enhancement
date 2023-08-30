@@ -12,7 +12,7 @@
    
    * A Series of Depth Image Enhancement Codes (Thanks to Yifan Zuo(Email:kenny0410@126.com))[[Code]](https://github.com/Yifan-Zuo)
 
-   * Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter[[Code]]([https://github.com/Yifan-Zuo](https://github.com/mdcnn/JGF2022/tree/main))
+   * Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter[[Code]](https://github.com/mdcnn/JGF2022/tree/main)
       
    * Joint Bilateral Filter[[PDF]](http://vis.berkeley.edu/papers/fnf/fnfSmall.pdf) Digital photography with flash and no-flash image pairs
    
