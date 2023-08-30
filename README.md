@@ -127,7 +127,7 @@
     
 ##### CNN-Based Methods
 
-   * JGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322007397)[[Code]]([https://github.com/Yifan-Zuo](https://github.com/mdcnn/JGF2022/tree/main)): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
+   * JGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322007397)[[Code]](https://github.com/mdcnn/JGF2022/tree/main): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
    
    * SDMD[[PDF]](http://jdxb.bjtu.edu.cn/CN/volumn/home.shtml): Single Depth Map Denoising Method by Combining High- and Low-Frequency Decomposition and Multi-Scale Two-Level Fusion Strategy (JOURNAL OF BEIJING JIAOTONG UNIVERSITY 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao.
 
