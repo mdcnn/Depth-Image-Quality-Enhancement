@@ -12,7 +12,7 @@
    
    * A Series of Depth Image Enhancement Codes (Thanks to Yifan Zuo(Email:kenny0410@126.com))[[Code]](https://github.com/Yifan-Zuo)
 
-   * Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter[[Code]](https://github.com/mdcnn/JGF2022/tree/main)
+   * Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter[[Code]](https://github.com/mdcnn/JGF2022/)
       
    * Joint Bilateral Filter[[PDF]](http://vis.berkeley.edu/papers/fnf/fnfSmall.pdf) Digital photography with flash and no-flash image pairs
    
@@ -127,7 +127,7 @@
     
 ##### CNN-Based Methods
 
-   * JGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322007397)[[Code]](https://github.com/mdcnn/JGF2022/tree/main): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
+   * JGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322007397)[[Code]](https://github.com/mdcnn/JGF2022/): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
    
    * SDMD[[PDF]](http://jdxb.bjtu.edu.cn/CN/volumn/home.shtml): Single Depth Map Denoising Method by Combining High- and Low-Frequency Decomposition and Multi-Scale Two-Level Fusion Strategy (JOURNAL OF BEIJING JIAOTONG UNIVERSITY 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Huihui Bai, Yao Zhao.
 
@@ -157,7 +157,7 @@
 
    * SCSN[[PDF]](http://faculty.dlut.edu.cn/_resources/group1/M00/00/60/ynZMg2BRVyKAOxRUACXR582FLVA369.pdf): Depth Super-Resolution via Deep Controllable Slicing Network (In Proceedings of the 28th ACM International Conference on Multimedia 2020), Ye, Xinchen, Baoli Sun, Zhihui Wang, Jingyu Yang, Rui Xu, Haojie Li, and Baopu Li.
    
-   * PMBAnet[[PDF]](http://faculty.dlut.edu.cn/_resources/group1/M00/00/60/ynZMhGBQviSAUEEoAFV7yJDkjJU362.pdf): PMBAnet: Progressive multi-branch aggregation network for scene depth super-resolution (IEEE Transactions on Image Processing2020), Ye, Xinchen, Baoli Sun, Zhihui Wang, Jingyu Yang, Rui Xu, Haojie Li, and Baopu Li.
+   * PMBAnet[[PDF]](http://faculty.dlut.edu.cn/_resources/group1/M00/00/60/ynZMhGBQviSAUEEoAFV7yJDkjJU362.pdf)[[Code]](https://github.com/Sunbaoli/PMBANet_DSR): PMBAnet: Progressive multi-branch aggregation network for scene depth super-resolution (IEEE Transactions on Image Processing2020), Ye, Xinchen, Baoli Sun, Zhihui Wang, Jingyu Yang, Rui Xu, Haojie Li, and Baopu Li.
 
    * CAIRL[[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Song_Channel_Attention_Based_Iterative_Residual_Learning_for_Depth_Map_Super-Resolution_CVPR_2020_paper.pdf): Channel Attention based Iterative Residual Learning for Depth Map Super-Resolution (In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020), Song, Xibin, Yuchao Dai, Dingfu Zhou, Liu Liu, Wei Li, Hongdong Li, and Ruigang Yang.
 
