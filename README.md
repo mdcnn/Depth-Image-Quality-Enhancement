@@ -63,57 +63,6 @@
    
    * Candidate Value-Based Boundary Filtering for Compressed Depth Images [[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/Compressed-Depth-Image%20Filtering)
    
-   
-## Review Papers
-   
-##### Review Papers for Depth Map Enhancement
-
-   * DHGF2023[[PDF]](https://www.arocmag.com/article/02-2023-06-003.html): A Review of Depth Map Super-Resolution Reconstruction Research: The Latest Methods, Applications and Challenges (Application Research of Computers 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang.
-   
-   * DMAR2020[[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-ipr.2019.1622): Depth Map Artefacts Reduction: A Review (IET Image Processing 2020),  Ibrahim MM, Liu Q, Khan R, Yang J, Adeli E, Yang Y.
-   
-   * DSR-CG2019[[PDF]](https://www.springerprofessional.de/depth-super-resolution-with-color-guidance-a-review/17314182): Depth Super-Resolution with Color Guidance: A Review (RGB-D Image Analysis and Processing 2019), Yang J, Jiang Z, Ye X, Li K.
-
-   * ToF-Depth-Survey2017[[PDF]](https://eprints.sztaki.hu/9116/1/Eichhardt_267_3224908_ny.pdf): Image-Guided ToF Depth Upsampling: A Survey (Machine Vision and Applications 2017),  Eichhardt I, Chetverikov D, Janko Z.
-   
-   * Kinect-Depth-Review2014[[PDF]](https://tanwimallick.github.io/papers/kinect_noise_sensor.pdf): Characterizations of Noise In Kinect Depth Images: A Review (IEEE Sensors Journal 2014), Mallick T, Das PP, Majumdar AK.
-   
-   
-   
-##### Review Papers about Depth Map Completion/Depth Estimation
-
-   * 3DRecon2022[[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-08819-3_17): 3D Reconstruction Based on The Depth Image: A Review (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing 2022), Mi Q, Gao T.
-
-   * Deep-Depth-Completion2022[[PDF]](https://www.mdpi.com/1424-8220/22/14/5353/pdf): Deep Depth Completion: A Survey ( arXiv preprint 2022), Hu J, Bao C, Ozay M, Fan C, Gao Q, Liu H, Lam TL.
-   
-   * Single-Depth-estimation2022[[PDF]](https://arxiv.org/pdf/2104.06456): Single Image Depth Estimation: An Overview (Digital Signal Processing 2022), Mertan A, Duff DJ, Unal G.
-
-   * Mono-Depth-Estimation2022[[PDF]](https://www.mdpi.com/1424-8220/22/14/5353/pdf): Monocular Depth Estimation Using Deep Learning: A Review (Sensors 2022), Masoumian A, Rashwan HA, Cristiano J, Asif MS, Puig D.
-
-   * Depth-Completion2018[[PDF]](https://pure.port.ac.uk/ws/portalfiles/portal/26286067/Deep_Learning_for_Monocular_Depth_Estimation_A_Review_pp.pdf): Deep Depth Completion of A Single RGB-D Image (IEEE Conference on Computer Vision and Pattern Recognition 2018), Zhang Y, Funkhouser T.
-
-
-
-## RGB-D Dataset Papers
-
-   * RGB-D Datasets2022[[PDF]](https://arxiv.org/pdf/2201.05761): A Survey on RGB-D Datasets (arXiv preprint 2022), Lopes, Alexandre, Roberto Souza, and Helio Pedrini.
- 
-   * RGB-ToF-Datasets2022[[PDF]](https://arxiv.org/pdf/2209.07057.pdf): MIPI 2022 challenge on RGB+ ToF Depth Completion: Dataset and Report (arXiv preprint 2022), Sun, Wenxiu and Zhu, Qingpeng and Li, Chongyi and Feng, Ruicheng and Zhou, Shangchen and Jiang, Jun and Yang, Qingyu and Loy, Chen Change and Gu, Jinwei and Hou, Dewang and others.
-
-   * RGB-D-D2021[[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Towards_Fast_and_Accurate_Real-World_Depth_Super-Resolution_Benchmark_Dataset_and_CVPR_2021_paper.pdf): Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021), He, Lingzhi, Hongguang Zhu, Feng Li, Huihui Bai, Runmin Cong, Chunjie Zhang, Chunyu Lin, Meiqin Liu, and Yao Zhao.
-
-   * Kinect-Datasets2017[[PDF]](https://link.springer.com/article/10.1007/S11042-016-3374-6): RGB-D Datasets Using Microsoft Kinect or Similar Sensors: A Survey (Multimedia Tools and Applications 2017), Cai, Ziyun and Han, Jungong and Liu, Li and Shao, Ling.
-   
-   * NYU-v2 RGB-D Datasets2012[[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-33715-4_54.pdf): Indoor Segmentation and Support Inference From RGB-D Images (European conference on computer vision 2012), Silberman, Nathan, Derek Hoiem, Pushmeet Kohli, and Rob Fergus.
-
-   * Middlebury RGB-D Datasets2007[[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf): Evaluation of Cost Functions for Stereo Matching (IEEE Conference on Computer Vision and Pattern Recognition 2007), Hirschmuller, Heiko, and Daniel Scharstein.
-   
-   * Middlebury RGB-D Datasets2002[[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf): A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms (International Journal of Computer Vision 2002), Scharstein, Daniel, and Richard Szeliski.
-   
-
-   
-   
-   
 # A List of Depth Quality Enhancement Approaches
    
 ## Depth Image Super-Resolution
@@ -370,3 +319,51 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
 
 
 
+## Review Papers
+   
+##### Review Papers for Depth Map Enhancement
+
+   * DHGF2023[[PDF]](https://www.arocmag.com/article/02-2023-06-003.html): A Review of Depth Map Super-Resolution Reconstruction Research: The Latest Methods, Applications and Challenges (Application Research of Computers 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang.
+   
+   * DMAR2020[[PDF]](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-ipr.2019.1622): Depth Map Artefacts Reduction: A Review (IET Image Processing 2020),  Ibrahim, Mostafa Mahmoud and Liu, Qiong and Khan, Rizwan and Yang, Jingyu and Adeli, Ehsan and Yang, You.
+   
+   * DSR-CG2019[[PDF]](https://www.springerprofessional.de/depth-super-resolution-with-color-guidance-a-review/17314182): Depth Super-Resolution with Color Guidance: A Review (RGB-D Image Analysis and Processing 2019), Yang, Jingyu and Jiang, Zhongyu and Ye, Xinchen and Li, Kun.
+
+   * ToF-Depth-Survey2017[[PDF]](https://eprints.sztaki.hu/9116/1/Eichhardt_267_3224908_ny.pdf): Image-Guided ToF Depth Upsampling: A Survey (Machine Vision and Applications 2017), Eichhardt, Ivan and Chetverikov, Dmitry and Janko, Zsolt.
+   
+   * Kinect-Depth-Review2014[[PDF]](https://tanwimallick.github.io/papers/kinect_noise_sensor.pdf): Characterizations of Noise In Kinect Depth Images: A Review (IEEE Sensors Journal 2014), Mallick, Tanwi and Das, Partha Pratim and Majumdar, Arun Kumar.
+   
+   
+   
+##### Review Papers about Depth Map Completion/Depth Estimation
+
+   * 3DRecon2022[[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-08819-3_17): 3D Reconstruction Based on The Depth Image: A Review (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing 2022), Mi, Qingwei and Gao, Tianhan.
+
+   * Deep-Depth-Completion2022[[PDF]](https://www.mdpi.com/1424-8220/22/14/5353/pdf): Deep Depth Completion: A Survey ( arXiv preprint 2022), Hu, Junjie and Bao, Chenyu and Ozay, Mete and Fan, Chenyou and Gao, Qing and Liu, Honghai and Lam, Tin Lun.
+   
+   * Single-Depth-estimation2022[[PDF]](https://arxiv.org/pdf/2104.06456): Single Image Depth Estimation: An Overview (Digital Signal Processing 2022), Mertan, Alican and Duff, Damien Jade and Unal, Gozde.
+
+   * Mono-Depth-Estimation2022[[PDF]](https://www.mdpi.com/1424-8220/22/14/5353/pdf): Monocular Depth Estimation Using Deep Learning: A Review (Sensors 2022), Masoumian, Armin and Rashwan, Hatem A and Cristiano, Juli{\'a}n and Asif, M Salman and Puig, Domenec.
+
+   * Depth-Completion2018[[PDF]](https://pure.port.ac.uk/ws/portalfiles/portal/26286067/Deep_Learning_for_Monocular_Depth_Estimation_A_Review_pp.pdf): Deep Depth Completion of A Single RGB-D Image (IEEE Conference on Computer Vision and Pattern Recognition 2018), Zhang, Yinda and Funkhouser, Thomas.
+
+
+
+## RGB-D Dataset Papers
+
+   * RGB-D Datasets2022[[PDF]](https://arxiv.org/pdf/2201.05761): A Survey on RGB-D Datasets (arXiv preprint 2022), Lopes, Alexandre, Roberto Souza, and Helio Pedrini.
+ 
+   * RGB-ToF-Datasets2022[[PDF]](https://arxiv.org/pdf/2209.07057.pdf): MIPI 2022 challenge on RGB+ ToF Depth Completion: Dataset and Report (arXiv preprint 2022), Sun, Wenxiu and Zhu, Qingpeng and Li, Chongyi and Feng, Ruicheng and Zhou, Shangchen and Jiang, Jun and Yang, Qingyu and Loy, Chen Change and Gu, Jinwei and Hou, Dewang and others.
+
+   * RGB-D-D2021[[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Towards_Fast_and_Accurate_Real-World_Depth_Super-Resolution_Benchmark_Dataset_and_CVPR_2021_paper.pdf): Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021), He, Lingzhi, Hongguang Zhu, Feng Li, Huihui Bai, Runmin Cong, Chunjie Zhang, Chunyu Lin, Meiqin Liu, and Yao Zhao.
+
+   * Kinect-Datasets2017[[PDF]](https://link.springer.com/article/10.1007/S11042-016-3374-6): RGB-D Datasets Using Microsoft Kinect or Similar Sensors: A Survey (Multimedia Tools and Applications 2017), Cai, Ziyun and Han, Jungong and Liu, Li and Shao, Ling.
+   
+   * NYU-v2 RGB-D Datasets2012[[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-33715-4_54.pdf): Indoor Segmentation and Support Inference From RGB-D Images (European conference on computer vision 2012), Silberman, Nathan, Derek Hoiem, Pushmeet Kohli, and Rob Fergus.
+
+   * Middlebury RGB-D Datasets2007[[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf): Evaluation of Cost Functions for Stereo Matching (IEEE Conference on Computer Vision and Pattern Recognition 2007), Hirschmuller, Heiko, and Daniel Scharstein.
+   
+   * Middlebury RGB-D Datasets2002[[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Scharstein-IJCV02.pdf): A Taxonomy and Evaluation of Dense Two-Frame Stereo Correspondence Algorithms (International Journal of Computer Vision 2002), Scharstein, Daniel, and Richard Szeliski.
+   
+
+   
