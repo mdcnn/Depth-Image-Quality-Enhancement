@@ -14,21 +14,21 @@
 
    * Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter[[Code]](https://github.com/mdcnn/JGF2022/)
       
-   * Joint Bilateral Filter[[PDF]](http://vis.berkeley.edu/papers/fnf/fnfSmall.pdf) Digital photography with flash and no-flash image pairs
+   * Digital Photography with Flash and No-Flash Image Pairs (Joint Bilateral Filter)[[PDF]](http://vis.berkeley.edu/papers/fnf/fnfSmall.pdf) 
    
-   * Joint Bilateral Upsampling[[PDF]](http://kops.uni-konstanz.de/bitstream/handle/123456789/5563/Joint_Bilateral_Upsampling.pdf?sequence=1) Joint bilateral upsampling
+   * Joint Bilateral Upsampling[[PDF]](http://kops.uni-konstanz.de/bitstream/handle/123456789/5563/Joint_Bilateral_Upsampling.pdf?sequence=1)
       
-  * Noise-aware Filter[[PDF]](https://www.ixueshu.com/document/72fc6ba0dffd13cf318947a18e7f9386.html) A noise-aware filter for real-time depth upsampling
+  * A Noise-Aware Filter for Real-Time Depth Upsampling (Noise-aware Filter)[[PDF]](https://www.ixueshu.com/document/72fc6ba0dffd13cf318947a18e7f9386.html) 
       
-  * Weight Mode Filter[[PDF]](http://ieeexplore.ieee.org/document/5963715/) Depth video enhancement based on weighted mode filtering
+  * Depth Video Enhancement Based on Weighted Mode Filtering (Weight Mode Filter)[[PDF]](http://ieeexplore.ieee.org/document/5963715/) 
       
-  * Anisotropic Diffusion[[PDF]](http://link.springer.com/content/pdf/10.1007%2F978-3-319-03731-8_38.pdf) Guided Depth enhancement via Anisotropic Diffusion
+  * Guided Depth Enhancement via Anisotropic Diffusion(Anisotropic Diffusion)[[PDF]](http://link.springer.com/content/pdf/10.1007%2F978-3-319-03731-8_38.pdf) 
       
-  * Markov Random Field[[PDF]](http://www.docin.com/p-1500754906.html) An application of markov random fields to range sensing
+  * An Application of Markov Random Fields to Range Sensing (Markov Random Field)[[PDF]](http://www.docin.com/p-1500754906.html) 
       
-  * Markov Random Field[[PDF]](http://www.springerlink.com/index/lp737451771w1038.pdf) Image and sparse laser fusion for dense scene reconstruction
+  * Image and Sparse Laser Fusion for Dense Scene Reconstruction (Markov Random Field)[[PDF]](http://www.springerlink.com/index/lp737451771w1038.pdf) 
       
-  * Layered Bilateral Filter[[PDF]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=4270236) Spatial-depth super resolution for range images
+  * Spatial-Depth Super Resolution for Range Images (Layered Bilateral Filter)[[PDF]](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=4270236) 
 
   * Robust Color Guided Depth Map Restoration[[Code]](https://github.com/wliusjtu/Robust-Color-Guided-Depth-Map-Restoration)
 
@@ -84,7 +84,7 @@
 
    * 3DRecon2022[[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-08819-3_17): 3D Reconstruction Based on The Depth Image: A Review (International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing 2022), Mi Q, Gao T.
 
-   * Deep-Depth-Completion2022[[PDF]](https://www.mdpi.com/1424-8220/22/14/5353/pdf): Deep Depth Completion: A Survey ( arXiv preprint 2022),Hu J, Bao C, Ozay M, Fan C, Gao Q, Liu H, Lam TL.
+   * Deep-Depth-Completion2022[[PDF]](https://www.mdpi.com/1424-8220/22/14/5353/pdf): Deep Depth Completion: A Survey ( arXiv preprint 2022), Hu J, Bao C, Ozay M, Fan C, Gao Q, Liu H, Lam TL.
    
    * Single-Depth-estimation2022[[PDF]](https://arxiv.org/pdf/2104.06456): Single Image Depth Estimation: An Overview (Digital Signal Processing 2022), Mertan A, Duff DJ, Unal G.
 
@@ -98,11 +98,11 @@
 
    * RGB-D Datasets2022[[PDF]](https://arxiv.org/pdf/2201.05761): A Survey on RGB-D Datasets (arXiv preprint 2022), Lopes, Alexandre, Roberto Souza, and Helio Pedrini.
  
-   * RGB-ToF-Datasets2022[[PDF]](https://arxiv.org/pdf/2209.07057.pdf): MIPI 2022 challenge on RGB+ ToF Depth Completion: Dataset and Report (arXiv preprint 2022), Sun W, Zhu Q, Li C, Feng R, Zhou S, Jiang J, Yang Q, Loy CC, Gu J.
+   * RGB-ToF-Datasets2022[[PDF]](https://arxiv.org/pdf/2209.07057.pdf): MIPI 2022 challenge on RGB+ ToF Depth Completion: Dataset and Report (arXiv preprint 2022), Sun, Wenxiu and Zhu, Qingpeng and Li, Chongyi and Feng, Ruicheng and Zhou, Shangchen and Jiang, Jun and Yang, Qingyu and Loy, Chen Change and Gu, Jinwei and Hou, Dewang and others.
 
    * RGB-D-D2021[[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Towards_Fast_and_Accurate_Real-World_Depth_Super-Resolution_Benchmark_Dataset_and_CVPR_2021_paper.pdf): Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline (IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021), He, Lingzhi, Hongguang Zhu, Feng Li, Huihui Bai, Runmin Cong, Chunjie Zhang, Chunyu Lin, Meiqin Liu, and Yao Zhao.
 
-   * Kinect-Datasets2017[[PDF]](https://link.springer.com/article/10.1007/S11042-016-3374-6): RGB-D Datasets Using Microsoft Kinect or Similar Sensors: A Survey (Multimedia Tools and Applications 2017), Cai Z, Han J, Liu L, Shao L.
+   * Kinect-Datasets2017[[PDF]](https://link.springer.com/article/10.1007/S11042-016-3374-6): RGB-D Datasets Using Microsoft Kinect or Similar Sensors: A Survey (Multimedia Tools and Applications 2017), Cai, Ziyun and Han, Jungong and Liu, Li and Shao, Ling.
    
    * NYU-v2 RGB-D Datasets2012[[PDF]](https://link.springer.com/content/pdf/10.1007/978-3-642-33715-4_54.pdf): Indoor Segmentation and Support Inference From RGB-D Images (European conference on computer vision 2012), Silberman, Nathan, Derek Hoiem, Pushmeet Kohli, and Rob Fergus.
 
@@ -124,6 +124,8 @@
   * MMNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Memory-Augmented Deep Unfolding Network for Guided Image Super-Resolution (International Journal of Computer Vision 2023), Man Zhou and Keyu Yan and Jinshan Pan and Wenqi Ren and Qi Xie and Xiangyong Cao.
     
   * LMCSC-ResNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Multimodal Deep Unfolding for Guided Image Super-Resolution (IEEE Transactions on Image Processing 2020), Iman Marivani and Evaggelia Tsiligianni and Bruno Cornelis and Nikos Deligiannis.
+
+  * C-ISTA[[PDF]](https://ieeexplore.ieee.org/document/8682646): Coupled ISTA Network for Multi-modal Image Super-Resolution (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Xin Deng, Pier Luigi Dragotti.
     
 ##### CNN-Based Methods
 
@@ -163,11 +165,11 @@
 
    * CAIRL[[PDF]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Song_Channel_Attention_Based_Iterative_Residual_Learning_for_Depth_Map_Super-Resolution_CVPR_2020_paper.pdf): Channel Attention based Iterative Residual Learning for Depth Map Super-Resolution (In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020), Song, Xibin, Yuchao Dai, Dingfu Zhou, Liu Liu, Wei Li, Hongdong Li, and Ruigang Yang.
 
-   * DU-DEAL[[PDF]](https://arxiv.org/pdf/2004.09965.pdf): Depth upsampling based on deep edge-aware learning (Pattern Recognition), Wang, Zhihui, et al.
+   * DU-DEAL[[PDF]](https://arxiv.org/pdf/2004.09965.pdf): Depth Upsampling Based on Deep Edge-Aware Learning (Pattern Recognition), Wang, Zhihui and Ye, Xinchen and Sun, Baoli and Yang, Jingyu and Xu, Rui and Li, Haojie.
 
-   * WAJCSR[[PDF]](https://arxiv.org/pdf/2004.09965.pdf): Weakly Aligned Joint Cross-Modality Super Resolution (In Proceedings of the 2019 International Conference on Robotics Systems and Vehicle Technology), Shacht, Guy, et al.
+   * WAJCSR[[PDF]](https://arxiv.org/pdf/2004.09965.pdf): Weakly Aligned Joint Cross-Modality Super Resolution (In Proceedings of the 2019 International Conference on Robotics Systems and Vehicle Technology), Shacht, Guy and Fogel, Sharon and Danon, Dov and Cohen-Or, Daniel.
 
-   * MSDRFN[[PDF]](https://arxiv.org/pdf/2004.04788.pdf):  Multi-Source Deep Residual Fusion Network for Depth Image Super-resolution (In Proceedings of the 2019 International Conference on Robotics Systems and Vehicle Technology), Hao, Xiaohui, et al.
+   * MSDRFN[[PDF]](https://arxiv.org/pdf/2004.04788.pdf): Multi-Source Deep Residual Fusion Network for Depth Image Super-resolution (In Proceedings of the 2019 International Conference on Robotics Systems and Vehicle Technology), Hao, Xiaohui and Lu, Tao and Zhang, Yanduo and Wang, Zhongyuan and Chen, Hui.
 
    * RDN[[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025519303913): Residual Dense Network for Intensity-Guided Depth Map Enhancement (Information Sciences 2019), Yifan Zuo, Qiang Wu, Yuming Fang, Yong Yang, Xiwu Shang, Bin Wang.
    
@@ -175,8 +177,7 @@
    
    * MRGPS[[PDF]](https://ieeexplore.ieee.org/document/8703382): Depth Map Super-Resolution via Multilevel Recursive Guidance and Progressive Supervision (IEEE ACCESS 2019), Bolan Yang, Xiaoting Fan, Zexun Zheng, Xiaohuan Liu, Kaiming Zhang, Jianjun Lei.
    
-   * MFR[[PDF]](https://ieeexplore.ieee.org/document/8598786): Multi-scale Frequency Reconstruction for Guided
-Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits and Systems for Video Technology 2019), Yifan Zuo, Qiang Wu, Yuming Fang, Ping An, Liqin Huang, Zhifeng Chen.
+   * MFR[[PDF]](https://ieeexplore.ieee.org/document/8598786): Multi-scale Frequency Reconstruction for Guided Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits and Systems for Video Technology 2019), Yifan Zuo, Qiang Wu, Yuming Fang, Ping An, Liqin Huang, Zhifeng Chen.
 
    * CFCNS[[PDF]](https://ieeexplore.ieee.org/abstract/document/8485321): Deep Color Guided Coarse-to-Fine Convolutional Network Cascade for Depth Image Super-Resolution (IEEE Trans. on Image Processing 2019), Yang Wen, Bin Sheng, Ping Li, Weiyao Lin, David Dagan Feng.
 
@@ -231,8 +232,6 @@ Depth Map Super-resolution via Deep Residual Network (IEEE Trans. on Circuits an
    * PDSR[[PDF]](https://ieeexplore.ieee.org/abstract/document/8738841/metrics#metrics): Photometric Depth Super-Resolution (IEEE Transactions on Pattern Analysis and Machine Intelligence), Bjoern Haefner, Songyou Peng, Alok Verma, Yvain Quéau, Daniel Cremers.
    
    * SSV-DSR[[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/html/Haefner_Fight_Ill-Posedness_With_CVPR_2018_paper.html): Fight Ill-Posedness With Ill-Posedness: Single-Shot Variational Depth Super-Resolution From Shading (The IEEE Conference on Computer Vision and Pattern Recognition (CVPR2018)), Bjoern Haefner, Yvain Quéau, Thomas Möllenhoff, Daniel Cremers.
-      
-   * CIN[[PDF]](https://ieeexplore.ieee.org/document/8682646): Coupled Ista Network for Multi-modal Image Super-resolution (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Xin Deng, Pier Luigi Dragotti.
    
    * AGDSR[[PDF]](https://ieeexplore.ieee.org/document/8683395/authors): Alternately Guided Depth Super-resolution Using Weighted Least Squares and Zero-order Reverse Filtering (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Kailong Zhou, Shengtao Yu, Cheolkon Jung.
 
