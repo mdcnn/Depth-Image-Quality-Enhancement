@@ -75,10 +75,20 @@
   * LMCSC-ResNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Multimodal Deep Unfolding for Guided Image Super-Resolution (IEEE Transactions on Image Processing 2020), Iman Marivani and Evaggelia Tsiligianni and Bruno Cornelis and Nikos Deligiannis.
 
   * C-ISTA[[PDF]](https://ieeexplore.ieee.org/document/8682646): Coupled ISTA Network for Multi-modal Image Super-Resolution (ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)), Xin Deng, Pier Luigi Dragotti.
+
+##### CNN-Based Continuous/Arbitrary-Scale DSR Methods
+
+   *  GeoDSR: Learning Continuous Depth Representation via Geometric Spatial Aggregator (Proceedings of the AAAI Conference on Artificial Intelligence 2023), Wang, Xiaohang and Chen, Xuanhong and Ni, Bingbing and Tong, Zhengyan and Wang, Hang.
+
+   * LIGF-DSR: Depth Map Continuous Super-resolution with Local Implicit Guidance Function (Displays 2023), Wang, Yuyang and Yang, Jingyu and Yue, Huanjing.
     
 ##### CNN-Based Methods
 
    * JGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322007397)[[Code]](https://github.com/mdcnn/JGF2022/): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
+
+   * SSFD-DSR: Spherical Space Feature Decomposition for Guided Depth Map Super-Resolution (arXiv preprint arXiv:2303.08942), Zhao, Zixiang and Zhang, Jiangshe and Gu, Xiang and Tan, Chengli and Xu, Shuang and Zhang, Yulun and Timofte, Radu and Van Gool, Luc.
+
+   * FCAT-DSR: Fully Cross-Attention Transformer for Guided Depth Super-Resolution (MDPI Sensors 2023), Ariav, Ido and Cohen, Israel.
 
    * IDFE-DSR[[PDF]](https://itiis.org/digital-library/55875): Color-Image Guided Depth Map Super-Resolution Based on Iterative Depth Feature Enhancement (KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jialong Zhang, Anhong Wang.
    
@@ -316,8 +326,6 @@ Data Fidelity and Transferred Graph Laplacian Regularization (IEEE Trans. on Cir
 ## 3D Reconstruction(with depth information)
 
    * RoutedFusion[[PDF]](https://ieeexplore.ieee.org/abstract/document/8305150): RoutedFusion: Learning Real-time Depth Map Fusion  (In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020), Weder, Silvan, Johannes Schonberger, Marc Pollefeys, and Martin R. Oswald.
-
-
 
 ## Review Papers
    
