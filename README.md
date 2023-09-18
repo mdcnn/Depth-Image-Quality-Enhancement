@@ -67,7 +67,10 @@
    
 ## Depth Image Super-Resolution
 
-##### Interpretable/Explainable/Explicable Unfolding Network Methods
+##### Interpretable/Explainable/Explicable Unfolding Networks
+
+  * CDUNet[[PDF]](https://ieeexplore.ieee.org/document/10222325/): A Joint Model-Driven Unfolding Network for Degraded Low-Quality Color-Depth Images Enhancement (IEEE International Conference on Image Processing (ICIP) 2023), Lijun Zhao, Ke Wang, Jinjing Zhang, Jie Zhao, Anhong Wang.
+  * 
   * Ex-DSRNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Explainable Unfolding Network For Joint Edge-Preserving Depth Map Super-Resolution (IEEE International Conference on Multimedia and Expo (ICME) 2023), Jialong Zhang, Lijun Zhao, Jinjing Zhang, Ke Wang, Anhong Wang.
     
   * MMNet[[PDF]](https://ieeexplore.ieee.org/document/10219604): Memory-Augmented Deep Unfolding Network for Guided Image Super-Resolution (International Journal of Computer Vision 2023), Man Zhou and Keyu Yan and Jinshan Pan and Wenqi Ren and Qi Xie and Xiangyong Cao.
@@ -82,7 +85,7 @@
 
    * LIGF-DSR: Depth Map Continuous Super-resolution with Local Implicit Guidance Function (Displays 2023), Wang, Yuyang and Yang, Jingyu and Yue, Huanjing.
     
-##### CNN-Based Methods
+##### CNN-Based Fixed-Scale DSR Methods
 
    * JGF[[PDF]](https://www.sciencedirect.com/science/article/pii/S0031320322007397)[[Code]](https://github.com/mdcnn/JGF2022/): Joint Depth Map Super-Resolution Method via Deep Hybrid-Cross Guidance Filter (Pattern Recognition 2023), Ke Wang, Lijun Zhao, Jinjing Zhang, Jialong Zhang, Anhong Wang, Huihui Bai.
 
