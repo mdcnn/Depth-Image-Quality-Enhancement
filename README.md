@@ -8,6 +8,8 @@
    
 # The Summary of Some Available Codes/Projects 
 
+   * Guided Depth Map Super-resolution: A Survey[[Summary]]([https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/depth-enhancement_toolbox](https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey)) 
+
    * Depth-Enhancement-Toolbox(Thanks to Junyi Liu(Email:shshzaa@zju.edu.cn))[[Code]](https://github.com/mdcnn/Depth-Image-Quality-Enhancement/tree/master/depth-enhancement_toolbox)
    
    * A Series of Depth Image Enhancement Codes (Thanks to Yifan Zuo(Email:kenny0410@126.com))[[Code]](https://github.com/Yifan-Zuo)
